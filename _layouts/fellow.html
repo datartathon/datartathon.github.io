@@ -7,8 +7,11 @@ post_class: post-template
 
 <div class="entry-header">
     <!-- Post Title -->
-    <h1 class="posttitle">{{ page.title }}</h1>
-    <!-- Author & Date  Box -->
+    <!-- <span class="badge badge-primary" style="font-size:0.7rem">DAT/ARTATHON FELLOWS</span> -->
+    <h1 class="posttitle">{{ page.name }}</h1>
+    <p style="font-size: 1.3rem; margin:0">{{ page.current_affiliation }}</p>
+    <p style="font-size: 1.3rem; margin:0">{{ page.location }}</p>
+    <!-- Author & Date  Box
     {% assign author = site.authors[page.author] %}
     {% if page.author %}
     <div class="d-flex align-items-center mt-4">
@@ -27,7 +30,7 @@ post_class: post-template
         {% endif %}
         </div>            
     </div>
-    {% endif %}
+    {% endif %} -->
 </div>
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
@@ -51,13 +54,10 @@ post_class: post-template
 <!-- Author Box if enabled from _config.yml -->
 {% include author-box.html %}
 
-<!-- Comments if not disabled with comments: false -->
-{% include comments.html %}
 
 <!-- Share -->
 {% include share.html %}
 
-<!-- Related Post -->
 
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
 https://search.google.com/structured-data/testing-tool/u/0/

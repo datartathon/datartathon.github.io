@@ -84,6 +84,7 @@ hr {
 // Typography
 //
 
+
 // Remove top margins from headings
 //
 // By default, `<h1>`-`<h6>` all receive top and bottom margins. We nuke the top
@@ -100,6 +101,7 @@ h1, h2, h3, h4, h5, h6 {
 // bottom margin to use `rem` units instead of `em`.
 p {
   margin-top: 0;
+  // font-size: 1.3rem;
   margin-bottom: $paragraph-margin-bottom;
 }
 

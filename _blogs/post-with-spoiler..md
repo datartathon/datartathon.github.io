@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Spoliers Inside - a film review needs hidden spoilers like this post"
+title:  "Spoilers Inside - a film review needs hidden spoilers like this post"
 author: arogya
+date: 2020-08-13
 categories: [ Lifestyle ]
 tags: [ Movies ]
 image: assets/images/12.jpg

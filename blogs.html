@@ -1,0 +1,19 @@
+---
+layout: default
+title: Blogs & Resources
+---
+
+<div class="row">
+<div class="col-md-8">
+    <p style="font-size: 1.75rem; ">This section contains all our blogs, including guest posts, crossposts etc. Content in this section is currently being served from the <code>_blogs</code> folder.</p></p>    
+</div>
+    <div class="col-md-4 p-0">
+            </div>
+
+</div>
+
+{% for post in site.blogs reversed  %}
+      {% include horizontal-content-snippet.html %}
+{% endfor %}
+
+

@@ -3,10 +3,33 @@ layout: default
 title: Home
 ---
 
+<div class="row">
+<div class="col-md-8">
+    <h1 style="font-size: 3.5rem; ">A new collaborative community </h1>
+    <br/>
+    <p style="font-size: 1.75rem; ">DAT/Artathon is a <b>free virtual workshop</b> for 5-10 early career individuals who work on data visualization using disaster risk and resilience data.</p>
+    <br/>
+    <a href="about.html"><input type="button" value="Learn more 🠒" name="Learn more"  class="heart"></input></a>
+    
+</div>
+    <div class="col-md-4 p-0">
+            </div>
+
+</div>
+
+<br/>
+<br/>
+<br/>
+{% include dat-artists.html %}
+
+<br/>
+<br/>
+<br/>
+<h1 style="font-size: 2.5rem; max-width: 600px;"><a class="text-dark"  href="/news">News and updates</a> </h1>
 <!-- Posts Index
 ================================================== -->
 <div class="blog-grid-container">
-    {% for post in paginator.posts %}
+    {% for post in site.news reversed  limit:3 %}
         {% include postbox.html %}
     {% endfor %}
 </div>
@@ -18,4 +41,15 @@ title: Home
     {% include pagination.html %}
 </span>
 </div>
+
+<br/>
+<br/>
+<br/>
+<h1 style="font-size: 2.5rem; max-width: 600px;"><a class="text-dark"  href="/blogs">Blogs & Resources</a></h1>
+<div class="blog-grid-container">
+    {% for post in site.blogs limit:3 %}
+        {% include postbox.html %}
+    {% endfor %}
+</div>
+
 

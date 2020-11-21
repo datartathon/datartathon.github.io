@@ -2,6 +2,7 @@
 layout: post
 title:  "London is that kind of place you must visit in this lifetime"
 author: arogya
+date: 2020-08-10
 categories: [ Travel ]
 image: assets/images/9.jpg
 ---

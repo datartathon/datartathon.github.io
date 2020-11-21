@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Spoliers Inside - a film review needs hidden spoilers like this post"
+title:  "It's a wrap - concluding the first edition of the DAT/Artathon"
 author: arogya
-categories: [ Lifestyle ]
+date: 2020-07-11
+categories: [ News ]
 tags: [ Movies ]
-image: assets/images/12.jpg
+image: assets/images/datartathon/mindmap.jpg
 ---
 
 Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.

@@ -1,0 +1,17 @@
+---
+layout: default
+title: Gallery
+---
+
+<div class="row">
+<div class="col-md-8">
+    <p style="font-size: 1.75rem; ">This section contains all projects by Dat/Artathon fellows. Content and associated attributes are yet to be decided. Content in this section is currently being served from the <code>_projects</code> folder.</p>    
+</div>
+    <div class="col-md-4 p-0">
+            </div>
+
+</div>
+
+{% for post in site.projects reversed %}
+      {% include horizontal-content-snippet.html %}
+{% endfor %}

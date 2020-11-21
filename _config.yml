@@ -1,13 +1,13 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "Risk and Resilience DAT/Artathon"
+title: "Risk and Resilience DAT/Artathon"
+description: "A collaborative and constructive experience to create disaster data art, share skills, and co-develop criteria for visualizing risk data."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
+# baseurl: /s
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 email: wowthemesnet@gmail.com
@@ -22,19 +22,17 @@ authors:
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
+  arogya:
+    name: Arogya
+    display_name: Arogya
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: arogya.koirala@kathmandulivinglabs.org
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
@@ -49,10 +47,7 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
     
-# Pagination 
-paginate: 6
-paginate_path: /page:num/
-    
+
 # Other
 highlighter: none
 markdown: kramdown
@@ -60,6 +55,21 @@ kramdown:
    syntax_highlighter_opts:
       disable : true
 
+
+      
+collections:
+  blogs:
+    output: true
+    permalink: /:collection/:name
+  news:
+    output: true
+    permalink: /:collection/:name
+  fellows:
+    output: true
+    permalink: /:collection/:name
+  projects:
+    output: true
+    permalink: /:collection/:name
 
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)

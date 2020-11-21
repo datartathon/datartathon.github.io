@@ -1,0 +1,22 @@
+<div class="row align-items-end my-5 ">
+    <div class="col-12 card h-100">
+        <div class="row">
+       
+            <div class="col-md-4" style="margin-left: -15px">
+                <img class="img-fluid" src="{% if fellow.image contains "://" %}{{ fellow.image }}{% else %}{{ site.baseurl }}/{{ fellow.image }}{% endif %}" alt="{{ fellow.title }}">
+            </div>
+
+            <div class="col-md-8 p-4" style="margin-left: -15px">
+                <h2><a class="text-dark" href="{{ site.baseurl }}{{ fellow.url }}">{{ fellow.name }}</a></h2>
+                <!-- <p style="font-size:1.2rem; margin:0">{{fellow.current_affiliation}}</p> -->
+                <p style="font-size:1.2rem; margin:0">{{fellow.location}}</p>
+                <br/>
+                <p style="font-size:1.3rem">{{fellow.excerpt | strip_html | truncatewords: 50 }}</p>
+                <a href="{{ site.baseurl }}{{ fellow.url }}"><input type="button" value="Read more 🠒" name="Learn more"  class="heart"></input></a>
+            </div>
+
+
+        </div>
+    </div>
+ 
+</div>
