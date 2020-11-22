@@ -4,19 +4,28 @@ layout: default
 permalink: "/categories.html"
 ---
 
+{% assign unique_cats = "" | split: ',' %}
+{% for blog in site.blogs %}
 
-{% for category in site.categories %}
-<h4 class="mt-5 mb-neg-30" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize badge badge-primary text-small">{{ category[0] }}</span></h4>
-<div class="blog-grid-container">
-{% assign pages_list = category[1] %}
-{% for post in pages_list %}
-{% if post.title != null %}
-{% if group == null or group == post.group %}
-{% include postbox.html %}
-{% endif %}
-{% endif %}
+    {% for cat in blog.categories %}
+        {% unless unique_cats contains cat %}
+            {% assign unique_cats = unique_cats | push: cat %}
+        {% endunless %}
+    {% endfor %}
 {% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
-</div>
+
+{% for cat in unique_cats %}
+
+    <h1 id={{cat}}>{{cat}}</h1>
+    <div class="blog-grid-container">
+    {% for post in site.blogs reversed %}
+        {% unless post.categories contains cat %}
+            
+            {% include postbox.html %}
+            {% endunless %}
+            {% endfor %}
+        </div>
+            
 {% endfor %}
+
+

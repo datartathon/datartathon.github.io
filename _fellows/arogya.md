@@ -1,18 +1,16 @@
 ---
 layout: fellow
 name:  "Arogya Koirala"
-current_affiliation: "Tech and Innovation Lead at Kathmandu Living Labs"
+current_affiliation: "Kathmandu Living Labs"
 location: "Kathmandu, Nepal"
 author: arogya
 date: 2020-08-11
 categories: [ Fellows ]
 tags: [ People ]
-image: assets/images/datartathon/mindmap2.jpg
+image: assets/images/datartathon/arogya2.jpeg
 ---
 
-Donec sed nulla id diam fringilla aliquet. Sed quis justo sed mauris tristique auctor. Etiam sed faucibus turpis. Curabitur viverra dolor vitae commodo finibus. Nullam rutrum nec mi id porta. Sed nec ultricies enim. Suspendisse placerat ex posuere sapien lobortis, et lacinia nulla congue. Nunc sed sodales eros. Praesent nec mi non nisl condimentum consequat.
+Arogya is the Tech and Innovation Lead at Kathmandu Living Labs, a leading civic tech company working in Nepal and the region. He has supported the design and development of several open data and civic tech projects aimed at promoting and supporting the use of data in government, civil society, and the private sector. Some of these include the Open Local Government Digital System for Nepalgunj Sub-Metropolitan City, the [2015 Nepal Earthquake Data Portal](https://eq2015.npc.gov.np), [Jaibik Map](http://jaibikmapv2.klldev.org), and [Explore Pokhara](http://explorepokhara.klldev.org). He is currently leding the technical development of [Baato](https://baato.io), Nepal's first cloud based location services provider. 
 
-Nulla facilisi. Vivamus tempus ut dolor sit amet consectetur. Quisque placerat leo a nunc ultricies tristique in sed nunc. Morbi sit amet dolor tellus. Nam lacinia sapien tellus, a varius ipsum volutpat hendrerit. Nulla vehicula nunc quis nibh iaculis dignissim. In pretium et ex eget porttitor. Quisque aliquet urna faucibus, pulvinar justo ac, efficitur sem. Phasellus pharetra mauris nulla, sed consectetur magna lobortis id. Aliquam sagittis libero et lacinia ornare. Phasellus nec elit ut augue egestas ultricies. Mauris magna ex, semper vitae nisi sit amet, ultrices consequat ipsum. Nulla facilisi. Mauris quam quam, sagittis sit amet sagittis ornare, scelerisque sit amet dui.
 
-Phasellus massa sem, varius et egestas ac, venenatis ac sem. Etiam sed justo nec sapien consectetur varius. Sed lacinia est at nunc blandit, quis condimentum ante lobortis. Morbi quis felis ligula. Nunc elementum, quam in pulvinar efficitur, est mauris gravida nisl, pellentesque luctus diam purus sit amet eros. Sed et est quis felis bibendum luctus sed id massa. Mauris pretium augue a porttitor pretium. Maecenas non justo id tortor consequat volutpat. Phasellus ac laoreet lacus, blandit fringilla odio. Quisque ante mauris, posuere quis nisl a, aliquam aliquet orci. Sed molestie, quam sit amet aliquet hendrerit, lacus dui dignissim mauris, sit amet tincidunt arcu enim nec justo.
-
+Prior to joining KLL, Arogya spent more than two years working as a data scientist out of Bangalore, India. An engineer by degree, he combined his interests in statistical programming, data visualization and web development to build robust and scalable analytical solutions for several Fortune 500 companies in the retail, banking and technology sectors.

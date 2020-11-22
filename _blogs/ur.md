@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "This is just another dummy post for illustrating how it all works. "
-author: arogya
-date: 2020-08-11
-categories: [ News ]
+title:  "Catch us at #UR2020"
+author: yolanda
+date: 2020-11-03
+categories: [ Events ]
 tags: [ UR2020 ]
-image: assets/images/datartathon/mindmap2.jpg
+image: "https://understandrisk.org/wp-content/uploads/1860x450-banners_1028202014.jpg"
 ---
 
 We're happy to announce that we will be hosting a one-hour session during this year's [2020 Understanding Risk Forum](https://understandrisk.org/event/ur2020_forum/). 

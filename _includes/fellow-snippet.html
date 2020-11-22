@@ -11,7 +11,7 @@
                 <!-- <p style="font-size:1.2rem; margin:0">{{fellow.current_affiliation}}</p> -->
                 <p style="font-size:1.2rem; margin:0">{{fellow.location}}</p>
                 <br/>
-                <p style="font-size:1.3rem">{{fellow.excerpt | strip_html | truncatewords: 50 }}</p>
+                <p style="font-size:1.3rem">{{fellow.excerpt | strip_html | truncatewords: 30 }}</p>
                 <a href="{{ site.baseurl }}{{ fellow.url }}"><input type="button" value="Read more 🠒" name="Learn more"  class="heart"></input></a>
             </div>
 

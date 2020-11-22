@@ -11,25 +11,35 @@ disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
 email: wowthemesnet@gmail.com
+categories: [Events, News]
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  sabine:
+    name: Sabine
+    display_name: Sabine
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
+    email: sloos@stanford.edu
+    web: https://www.sabine-loos.com/
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: ""
   arogya:
     name: Arogya
     display_name: Arogya
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: bffa206f56df3b9138419b6228ad37bc
     email: arogya.koirala@kathmandulivinglabs.org
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    web: https://np.linkedin.com/public-profile/in/arogya-koirala-b192406b
+    twitter: https://twitter.com/sab_loos
+    description: ""
+  yolanda:
+    name: Yolanda
+    display_name: Yolanda
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: ylin@ntu.edu.sg
+    web: https://disaster-analytics.com/team/yolanda-lin
+    twitter: https://twitter.com/DisasterYolanda
+    description: ""
+
 
 # Plugins
 plugins:
@@ -61,9 +71,7 @@ collections:
   blogs:
     output: true
     permalink: /:collection/:name
-  news:
-    output: true
-    permalink: /:collection/:name
+    archive: true
   fellows:
     output: true
     permalink: /:collection/:name

@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Memoirs supports external images as featured"
-author: sal
-date: 2020-08-11
-categories: [ Lifestyle, Travel ]
-tags: [ France ]
+author: yolanda
+date: 2020-10-02
+categories: [ Events, News ]
 image: "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
 ---
 
