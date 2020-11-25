@@ -10,5 +10,4 @@ tags: [ People ]
 image: assets/images/datartathon/ayse.png
 ---
 
-Ayse is a wonderful person who hasn't, as of yet, sent me her bio.
-
+Ayse is a data scientist at Gap Inc, working on model-driven visualizations and embedded business intelligence projects. Aside from her job, she is also an incubator technologist/artist at Gray Area San Francisco, working to create social impact through art.
