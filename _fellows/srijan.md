@@ -10,5 +10,5 @@ tags: [ People ]
 image: assets/images/datartathon/srijan.jpg
 ---
 
-Srijan is a wonderful person who hasn't, as of yet, sent me his bio.
+Srijan Manandhar is currently working at the Youth Innovation Lab in Nepal as a Technical Lead for the project 'BIPAD' (https://bipad.gov.np/). He has expertise in front and back end development, big data, and data visualization.
 
