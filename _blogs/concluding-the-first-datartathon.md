@@ -1,29 +1,31 @@
 ---
 layout: post
 title:  "It's a wrap - concluding the first edition of the DAT/Artathon"
-author: arogya
-date: 2020-11-02
-categories: [ News ]
+author: yolanda
+date: 2020-08-13
+categories: [ Events ]
 tags: [ DATArtathon2020 ]
 image: assets/images/datartathon/mindmap.jpg
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+We are so thrilled to have hosted our inaugural Risk & Resilience DAT/Artathon! Originally, the DAT/Artathon was an in-person event at Understanding Risk 2020. Community is one thing we desparately needed during this time of social isolation and global separation, so we decided to move it to a virtual platform. The DAT/Artathon then took shape as a free virtual workshop for 5-10 early career individuals who work on data visualization using disaster risk and resilience data. 
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+## What we set out to do
+We set out to create an event to help selected DAT/Artathon Fellows (aka DAT/Artists) to finish individual visualization projects, document risk visualization best practices, and build a burgeoning cohort of close friends & experienced risk visualizers.
 
-**"When You Don't Have a Memory, How Can You Remember Who to Trust?"**
+### Co-learn new skills and best practices
+To help co-learn new skills and share best practices, the first week of the DAT/Artathon was filled with exciting mini-lessons from each of the DAT/Artists. These 15 minute lessons helped shape and set the tone for the rest of the event.
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
+### Create community
+We wanted to build a virtual space that could foster lasting friendships. We developed new icebreakers specifically tailored to the virtual experience, such as a scavenger hunt bingo board. We look forward to sharing some of these resources in future blog posts!
 
-#### What critiques say?
+### Make progress on individual projects
+In the first week, fellows shared their project idea and data sets, and we developed those ideas with constructive feedback in small groups. In the second week, DAT/Artists brought their prototypes to the table and went through another round of feedback. In the third and final week, we all shared each of our projects with the whole cohort. We'll be adding these projects to the [gallery](http://datartathon.com/projects/) soon! 
 
-> "There's almost no single moment in Portrait of a Lady on Fire that couldn't be captured, mounted, and hung on a wall as high art." <cite>— Entertainment Weekly</cite>
+Documenting the process behind building an effective data visualization was also a central part of the workshop. We're also excited to share the data viz process from start to finish in future [blog](http://datartathon.com/blogs/) posts. 
 
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.
+## Meet our DAT/Artists
+The success of this event was made possible by the fantastic and fantastically talented cohort of DAT/Artists! Meet them [here](http://datartathon.com/dat-artists/)
 
-#### So how do we add spoilers in this theme?
-
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
+## See you next time!
+We're looking forward to planning DAT/Artathon 2021. Have ideas or questions? Let us know!
