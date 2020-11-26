@@ -7,10 +7,9 @@ categories: [ projects ]
 tags: [ DATArtathon2020 ]
 image: assets/images/CARES.png
 ---
-
-<div class=“flourish-embed” data-src=“story/493768"><script src=“https://public.flourish.studio/resources/embed.js”></script></div>
                                                    
 DAT/Artist: [Jackie Ratner](http://datartathon.com/fellows/jackie), 2020. 
 
 This project is intended to de-mystify the emergency appropriations process in America by following the initial appropriation amounts through their intended programs and to the end beneficiaries. Specifically, this project focuses on the top 5 needs of children in disasters and the ways that The Coronavirus Aid, Relief, and Economic Security Act, (The CARES Act), allocated funds to meet the needs of vulnerable children in disasters. The data used are the raw appropriations (in dollar amounts) as allocated in the legislation, the originating federal departments, and the recipient programs. Segmenting data into "partially" or "exclusively" meeting the needs of children is an estimation based on the reported budgets of those programs and their programmatic recipients. The top 5 needs of children in disasters were identified through community surveys and discussions with community members who participate in the Resilient Children Resilient Communities Initiative, a project at the National Center for Disaster Preparedness at Columbia University. Insights from this data project show that approximately 14% of government funds in the CARES Act serve to at least partially benefit children.
 
+<div class=“flourish-embed” data-src=“story/493768"><script src=“https://public.flourish.studio/resources/embed.js”></script></div>
