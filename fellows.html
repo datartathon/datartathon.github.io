@@ -13,8 +13,8 @@ title: DAT/Artathon Fellows
 </div>
 
 
-
-{% for fellow in site.fellows reversed   %}
+{% assign sortedPosts = site.fellows | sort: 'title' %}
+{% for fellow in sortedPosts  %}
       {% include fellow-snippet.html %}
 {% endfor %}
 

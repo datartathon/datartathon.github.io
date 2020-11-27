@@ -26,7 +26,21 @@ title: Home
 <br/>
 <br/>
 <br/>
-<h1 style="font-size: 2.5rem; max-width: 600px;"><a class="text-dark"  href="/blogs">Blogs & Resources</a></h1>
+<h1 style="font-size: 2.5rem; max-width: 600px;"><a class="text-dark"  href="/blogs">Gallery</a></h1>
+<div class="blog-grid-container">
+    {% assign counter = 0 %}
+    {% for post in site.projects reversed %}
+        {% if counter < 3 %}
+            {% include postbox.html %}
+            {% assign counter = counter | plus: 1 %}
+        {% endif %}
+    {% endfor %}
+</div>
+
+<br/>
+<br/>
+<br/>
+<h1 style="font-size: 2.5rem; max-width: 600px;"><a class="text-dark"  href="/blogs">Read our blog</a></h1>
 <div class="blog-grid-container">
     {% assign counter = 0 %}
     {% for post in site.blogs reversed %}

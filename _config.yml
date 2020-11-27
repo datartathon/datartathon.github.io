@@ -2,15 +2,15 @@
 name: "Risk and Resilience DAT/Artathon"
 title: "Risk and Resilience DAT/Artathon"
 description: "A collaborative and constructive experience to create disaster data art, share skills, and co-develop criteria for visualizing risk data."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/datartathon/logo.png'
+favicon: 'assets/images/datartathon/logo.png'
 # baseurl: /s
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
+google_analytics: 'G-R16EKV4CWS'
+disqus: 'datartathon'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+# email: wowthemesnet@gmail.com
 categories: [Events, News]
 
 # Authors
