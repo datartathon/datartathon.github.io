@@ -20,9 +20,9 @@ To help co-learn new skills and share best practices, the first week of the DAT/
 We wanted to build a virtual space that could foster lasting friendships. We developed new icebreakers specifically tailored to the virtual experience, such as a scavenger hunt bingo board. We look forward to sharing some of these resources in future blog posts!
 
 ### Make progress on individual projects
-In the first week, fellows shared their project idea and data sets, and we developed those ideas with constructive feedback in small groups. In the second week, DAT/Artists brought their prototypes to the table and went through another round of feedback. In the third and final week, we all shared each of our projects with the whole cohort. We'll be adding these projects to the [gallery](http://datartathon.com/projects/) soon! 
+In the first week, fellows shared their project idea and data sets, and we developed those ideas with constructive feedback in small groups. In the second week, DAT/Artists brought their prototypes to the table and went through another round of feedback. In the third and final week, we all shared each of our projects with the whole cohort. We'll be adding these projects to the [gallery](http://datartathon.com/gallery/) soon! 
 
-Documenting the process behind building an effective data visualization was also a central part of the workshop. We're also excited to share the data viz process from start to finish in future [blog](http://datartathon.com/blogs/) posts. 
+Documenting the process behind building an effective data visualization was also a central part of the workshop. We're also excited to share the data viz process from start to finish in future [blog](http://datartathon.com/blog/) posts. 
 
 ## Meet our DAT/Artists
 The success of this event was made possible by the fantastic and fantastically talented cohort of DAT/Artists! Meet them [here](http://datartathon.com/dat-artists/)
