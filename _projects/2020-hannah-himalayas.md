@@ -6,7 +6,7 @@ date: 2020-11-30
 categories: [ projects ]
 cover: false
 tags: [ DATArtathon2020 ]
-image: assets/images/CARES.png
+image: assets/images/2004-vs-2018 - Hannah Melville-Rea.gif
 ---
 
      
