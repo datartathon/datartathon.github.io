@@ -3,12 +3,15 @@ layout: post
 title:  "The Risk Zoo"
 # author: arogya
 date: 2020-11-29
+cover: false
 categories: [ projects ]
 tags: [ DATArtathon2020 ]
 image: assets/images/TheRiskZoo-wide.png
 ---
      
 DAT/Artist: [Yolanda Lin](http://datartathon.com/fellows/yolanda), 2020. 
+
+ ![](/assets/images/TheRiskZoo-wide.png)
 
 Animal kingdom metaphors are often invoked in the disaster risk world for their accessibility and familiarity when discussing difficult or uncomfortable topics. However, there are a great number of these metaphors and it can be hard to keep track on what each of them all mean, and how exactly they differ from one another! The Risk Zoo was created to illustrate as many of these metaphors as possible, and encode key information about each of the animals in the risk zoo within the visualization. 
 
