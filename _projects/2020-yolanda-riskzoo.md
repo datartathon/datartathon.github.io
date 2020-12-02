@@ -22,4 +22,4 @@ The Risk Zoo map encodes four parameters:
 * Visibility of hazard: Size of tree
 * Event onset: Length of grass
 
-You can visit the full [Risk Zoo](datartathon.com/theriskzoo) for a description of every animal metaphor, along with the sources on each metaphor to compile this visualization. You can also download The Risk Zoo in [wide](http://datartathon.com/assets/images/TheRiskZoo-wide.png) and [tall](http://datartathon.com/assets/images/TheRiskZoo-tall.png) formats. 
+You can visit the full [Risk Zoo](https://datartathon.com/theriskzoo) for a description of every animal metaphor, along with the sources on each metaphor to compile this visualization. You can also download The Risk Zoo in [wide](https://datartathon.com/assets/images/TheRiskZoo-wide.png) and [tall](https://datartathon.com/assets/images/TheRiskZoo-tall.png) formats. 
