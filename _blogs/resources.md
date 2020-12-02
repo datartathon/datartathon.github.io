@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guides, media, and charts from the DAT/Artathon"
+title:  "Articles, charts, and other media from the DAT/Artathon"
 author: arogya
 date: 2020-08-12
 categories: [ Resources ]
