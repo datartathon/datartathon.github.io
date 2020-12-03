@@ -22,4 +22,4 @@ Our three week virtual event has involved a lot of resource sharing among us par
 - Arogya wrote a guide for [getting started with git](https://github.com/datartathon/gitting-started)
 - Hannah shared [tips on making disability friendly websites](https://digitalsynopsis.com/design/web-designing-for-accessibility/)
 - Shane stumbled on this article on [smelling or listening to data](https://medium.com/nightingale/data-smellification-smelling-data-saved-my-life-d62166f0f831)
-- Jackie shared [rcrctoolbox.org](rcrctoolbox.org), an online toolbox filled with “tools” for addressing children’s resilience in disasters
+- Jackie shared [https://rcrctoolbox.org](rcrctoolbox.org), an online toolbox filled with “tools” for addressing children’s resilience in disasters
