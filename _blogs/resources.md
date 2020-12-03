@@ -20,3 +20,6 @@ Our three week virtual event has involved a lot of resource sharing among us par
 - Arogya shared a paper on [narrative infoviz](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
 - Jackie shared detailed guides on [wrangling datasets](https://source.opennews.org/guides/working-data/) and [making charts](https://source.opennews.org/guides/making-charts/). She also contributed a guide on [news apps essentials](https://source.opennews.org/guides/news-apps-essentials/)
 - Arogya wrote a guide for [getting started with git](https://github.com/datartathon/gitting-started)
+- Hannah shared [tips on making disability friendly websites](https://digitalsynopsis.com/design/web-designing-for-accessibility/)
+- Shane stumbled on this article on [semlling or listening to data](https://medium.com/nightingale/data-smellification-smelling-data-saved-my-life-d62166f0f831)
+- Jackie shared [rcrctoolbox.org](rcrctoolbox.org), an online toolbox filled with “tools” for addressing children’s resilience in disasters
