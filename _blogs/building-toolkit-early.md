@@ -1,12 +1,14 @@
-| ![img](https://lh4.googleusercontent.com/S4BKG9hIzEIx2xrpoR5mONWAwb9nTQBqhlL7XjR7xZbARnjX9e_AkYDlE8QWFM6KhQmOlk7z05XA5OgVFUrWQ_Q_bmTo_rQPmOZ6S_6LnUvgXXTYAqN_J26kfKSGNeT1e6_7G-VN) |
-| :----------------------------------------------------------: |
-| *Himalayan Glacial Cover: 2004 vs 2018 by Hannah Melville-Rea for the [Geopolitics and Ecology of Himalayan Water](https://www.himalayanwaterproject.org/).* |
+---
+layout: post
+title:  "Why you should build your dataviz toolset early"
+author: sabine
+date: 2020-02-22
+categories: [ Events ]
+tags: [ Skills ]
+image: "https://lh4.googleusercontent.com/S4BKG9hIzEIx2xrpoR5mONWAwb9nTQBqhlL7XjR7xZbARnjX9e_AkYDlE8QWFM6KhQmOlk7z05XA5OgVFUrWQ_Q_bmTo_rQPmOZ6S_6LnUvgXXTYAqN_J26kfKSGNeT1e6_7G-VN"
+---
 
-# Why you should build your dataviz toolset early
-
-*A blogpost for early career professionals in risk and resilience*
-
-*Sabine Loos, February 22, 2021*
+*A blogpost for early career professionals in risk and resilience, cross posted with [Lloyd's Register Foundation Institute for the Public Understanding of Risk*](https://ipur.nus.edu.sg/2021/02/10/why-you-should-build-your-dataviz-toolset-early/)
 
 If you're reading this blog post, chances are that you are 1) an early career risk professional and 2) considering whether you should learn more about data visualization. This blog is meant to provide three reasons why you should, from a fellow early career risk professional who started out the journey herself a few years ago.
 
@@ -57,9 +59,15 @@ And finally, sign up for a challenge, a class, or experience! These will give yo
 ### **References**
 
 [^1]: [ https://work.chron.com/definition-early-midcareer-17385.html](https://work.chron.com/definition-early-midcareer-17385.html)
+
 [^2]:  Jay, M. (2012). The defining decade: why your twenties matter and how to make the most of them now. New York: Twelve.
+
 [^3]: Fresh Flowers Collective. *Scrubland*. 2019, the Art of Resilience.[ https://www.artofresilience.art/gallery/scrubland-map/](https://www.artofresilience.art/gallery/scrubland-map/)
+
 [^4]: Hawkins, Ed. *The Climate Spiral.* 2016.[ https://en.wikipedia.org/wiki/Climate_spiral](https://en.wikipedia.org/wiki/Climate_spiral)
+
 [^5]: Hawkins, Ed. *Warming Stripes.* 2018.[ https://en.wikipedia.org/wiki/Warming_stripes](https://en.wikipedia.org/wiki/Warming_stripes)
+
 [^6]: The Tempestry Project, *Whidbey Island NAS.* 2018, the Art of Resilience.[ https://www.artofresilience.art/gallery/whidbey-island-nas/](https://www.artofresilience.art/gallery/whidbey-island-nas/)[7][ https://en.wikipedia.org/wiki/Graphicacy](https://en.wikipedia.org/wiki/Graphicacy)
+
 [^8]: Cairo A (2017) Uncertainty and graphicacy : How should statisticians, journalists, and designers reveal uncertainty in graphics for public consumption? Available at:[ https://powerfromstatistics.eu/outlook-report](https://powerfromstatistics.eu/outlook-report).
