@@ -30,7 +30,7 @@ Here are my top three reasons why you should learn about data visualization. Pre
 
    | ![img](https://lh5.googleusercontent.com/2g3yyF94whdXTWhaZogbuh72HQQsuuwSpHDnR9RoXiheD3qgFFIVpBJkvm0PgY_tGKY_7OBa65tMPz9c116J23Q-UOu5p4SS10cyVy4IMXUSRzLOagpQQhfqx1cbHW9uyQkdsH89) |
    | :----------------------------------------------------------: |
-   | *Scrubland Map by the Fresh Flowers Collective, originally exhibited in the Art of Resilience https://www.artofresilience.art/gallery/scrubland-map/* |
+   | *Scrubland Map by the Fresh Flowers Collective, originally exhibited in the Art of Resilience [^3]* |
 
    Another set of prominent examples hail from climate scientist, Ed Hawkins, who developed two viral climate-related graphics:[ the climate spiral](https://www.vox.com/2016/5/10/11643864/global-warming-spiral-temperatures) [^4] and[ the warming stripes](https://en.wikipedia.org/wiki/Warming_stripes) [^5]. Both were quite simple, but allowed audiences to take in tons of data and extract meaning very quickly—the message was clear that the world is warming. Because of data visualization, his message was elevated to a much higher level than what a typical article, report, etc. would have received.
 
@@ -44,7 +44,7 @@ Here are my top three reasons why you should learn about data visualization. Pre
 
    | ![img](https://lh4.googleusercontent.com/dZx9u9V5uP7uaUBMGUElJr9JQs44hBnXarr2c34ED-47t8iFgQtLJkLBYwFS9d8OZWB34TlqzIFYSCnpKstxtUMo-7I6TcY_pBWukBzVP27UBCFxX0-_HGTqLETZOMpsMaKNmjXX) |
    | :----------------------------------------------------------: |
-   | *Whidbey Island NAS by The Tempestry Project, originally exhibited at The Art of Resilience https://www.artofresilience.art/gallery/whidbey-island-nas/* |
+   | *Whidbey Island NAS by The Tempestry Project, originally exhibited at The Art of Resilience [^6]* |
 
 3. **To be critical** - I'm not going to pick favorites here, but I think this reason is the most generally useful for all facets of your life. We are living in a data-laden world. From scientific reports to newspaper articles to hazard warnings, data and graphics are everywhere. Even though many people think of data as objective, the way it is presented is most definitely subjective. For example, people show confirmation bias, which is the tendency to look for things that support their viewpoint while ignoring conflicting information. Confirmation bias may cause people to find information that pushes their viewpoint in one direction, while ignoring contrary findings that lead to an entirely different conclusion. It is therefore important to learn *graphicacy*, or the ability to understand and present information in visual form [^7]. Two things most useful to understand is that whoever made a piece had their own bias in making it (that they want to share with you) and also that it is possible to misrepresent data. Understanding how to read graphs is not intuitive for everyone, but given the prevalence of graphs, should be almost as important as reading itself[^8]. If anything, learning how to visualize data will build that sense of graphicacy as you make design decisions yourself, so you can be more critical about graphs that you take in day to day.
 
@@ -70,6 +70,8 @@ And finally, sign up for a challenge, a class, or experience! These will give yo
 
 [^5]: Hawkins, Ed. *Warming Stripes.* 2018.[ https://en.wikipedia.org/wiki/Warming_stripes](https://en.wikipedia.org/wiki/Warming_stripes)
 
-[^6]: The Tempestry Project, *Whidbey Island NAS.* 2018, the Art of Resilience.[ https://www.artofresilience.art/gallery/whidbey-island-nas/](https://www.artofresilience.art/gallery/whidbey-island-nas/)[7][ https://en.wikipedia.org/wiki/Graphicacy](https://en.wikipedia.org/wiki/Graphicacy)
+[^6]: The Tempestry Project, *Whidbey Island NAS.* 2018, the Art of Resilience.[ https://www.artofresilience.art/gallery/whidbey-island-nas/](https://www.artofresilience.art/gallery/whidbey-island-nas/)
+
+[^7][ https://en.wikipedia.org/wiki/Graphicacy](https://en.wikipedia.org/wiki/Graphicacy)
 
 [^8]: Cairo A (2017) Uncertainty and graphicacy : How should statisticians, journalists, and designers reveal uncertainty in graphics for public consumption? Available at:[ https://powerfromstatistics.eu/outlook-report](https://powerfromstatistics.eu/outlook-report).
