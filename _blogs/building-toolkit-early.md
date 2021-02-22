@@ -8,7 +8,7 @@ tags: [ Skills ]
 image: "assets/images/Optigram-PostersRGBnoise_scaleLevel1356x200.png"
 ---
 
-*A blogpost for early career professionals in risk and resilience, cross posted with [Lloyd's Register Foundation Institute for the Public Understanding of Risk*](https://ipur.nus.edu.sg/2021/02/10/why-you-should-build-your-dataviz-toolset-early/)
+*A blogpost for early career professionals in risk and resilience, cross posted with [Lloyd's Register Foundation Institute for the Public Understanding of Risk](https://ipur.nus.edu.sg/2021/02/10/why-you-should-build-your-dataviz-toolset-early/) who is currently running the 2021 [Optigram](https://ipur.nus.edu.sg/2020/01/02/optigram-2020-climate-change-in-asia/) Data Visualization Competition on Climate Change in Asia* 
 
 If you're reading this blog post, chances are that you are 1) an early career risk professional and 2) considering whether you should learn more about data visualization. This blog is meant to provide three reasons why you should, from a fellow early career risk professional who started out the journey herself a few years ago.
 
