@@ -2,7 +2,7 @@
 layout: post
 title:  "Why you should build your dataviz toolset early"
 author: sabine
-date: 2020-02-22
+date: 2021-02-22
 categories: [ Events ]
 tags: [ Skills ]
 image: "https://lh4.googleusercontent.com/S4BKG9hIzEIx2xrpoR5mONWAwb9nTQBqhlL7XjR7xZbARnjX9e_AkYDlE8QWFM6KhQmOlk7z05XA5OgVFUrWQ_Q_bmTo_rQPmOZ6S_6LnUvgXXTYAqN_J26kfKSGNeT1e6_7G-VN"
@@ -34,9 +34,11 @@ Here are my top three reasons why you should learn about data visualization. Pre
 
    Another set of prominent examples hail from climate scientist, Ed Hawkins, who developed two viral climate-related graphics:[ the climate spiral](https://www.vox.com/2016/5/10/11643864/global-warming-spiral-temperatures) [^4] and[ the warming stripes](https://en.wikipedia.org/wiki/Warming_stripes) [^5]. Both were quite simple, but allowed audiences to take in tons of data and extract meaning very quickly—the message was clear that the world is warming. Because of data visualization, his message was elevated to a much higher level than what a typical article, report, etc. would have received.
 
-   | ![img](https://lh6.googleusercontent.com/HJ07d0XGkmAkXYd1T4sIONXIbjwKYA57WehBuOOT0vsP7hTblQVnr8M04q8rCbGRn1Endr8elQWbC13bDgCefQKDLTNzTP0DOz6hE63nbonaBYFK77z-9odFPKqzK8NAfyo4dv5K) | ![img](https://lh5.googleusercontent.com/CYiqnWPY6twe_8ys0dJOXIWCiMpz0kwkE4n3-cyVm66PrG8Gq4m3lhp8BMnmDzmu2VZ_NALqEIDIWQ9EXV-72oUf--AQzJFqym6Fz15AHdyXDaF7eyLFZOtSQM28Q9fEqU1DWzsx) |
-   | :----------------------------------------------------------: | :----------------------------------------------------------: |
-   | *The Climate Spiral by Ed Hawkins, originally posted on Twitter https://twitter.com/i/status/729753441459945474* | *Warming Stripes by Ed Hawkins, originally posted on Twitter https://twitter.com/ed_hawkins/status/1140772720508047360* |
+   | ![img](https://lh6.googleusercontent.com/HJ07d0XGkmAkXYd1T4sIONXIbjwKYA57WehBuOOT0vsP7hTblQVnr8M04q8rCbGRn1Endr8elQWbC13bDgCefQKDLTNzTP0DOz6hE63nbonaBYFK77z-9odFPKqzK8NAfyo4dv5K) |
+   | :----------------------------------------------------------: |
+   | *The Climate Spiral by Ed Hawkins, originally posted on [Twitter](https://twitter.com/i/status/729753441459945474)* |
+   | ![img](https://lh5.googleusercontent.com/CYiqnWPY6twe_8ys0dJOXIWCiMpz0kwkE4n3-cyVm66PrG8Gq4m3lhp8BMnmDzmu2VZ_NALqEIDIWQ9EXV-72oUf--AQzJFqym6Fz15AHdyXDaF7eyLFZOtSQM28Q9fEqU1DWzsx) |
+   | *Warming Stripes by Ed Hawkins, originally posted on [Twitter](https://twitter.com/ed_hawkins/status/1140772720508047360)* |
 
 2. **To create.** If you are coming to risk from a technical or management side, it is likely that your most typical roles in this area might lack more playful forms of creativity. Sure, you can be creative in how you... develop a risk management strategy or put together a slide deck. But how often can you apply your creative self in your work? The self that you might have put aside many years ago when you decided you wanted to pursue a technical role instead of an artistic one. Data visualization provides an outlet for you to integrate your creative and technical selves. You could even merge what you thought of as a side hustle with your main hustle. Like to knit on the side? Why not create a mural of temperatures for where you live? The[ Tempestry Project](https://www.artofresilience.art/gallery/whidbey-island-nas/) made a beautiful piece that "seeks to bring the seemingly impossible climate change to a more manageable, intimate, and personal level" with their set of stitched tapestries [^6]. Data visualization can take many forms and be a perfect outlet to collaborate between the arts and sciences (see the Art of Resilience page for more examples:[ https://www.artofresilience.art/collaboration/](https://www.artofresilience.art/collaboration/)).
 
