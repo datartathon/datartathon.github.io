@@ -5,7 +5,7 @@ author: sabine
 date: 2021-02-22
 categories: [ Events ]
 tags: [ Skills ]
-image: "https://lh4.googleusercontent.com/S4BKG9hIzEIx2xrpoR5mONWAwb9nTQBqhlL7XjR7xZbARnjX9e_AkYDlE8QWFM6KhQmOlk7z05XA5OgVFUrWQ_Q_bmTo_rQPmOZ6S_6LnUvgXXTYAqN_J26kfKSGNeT1e6_7G-VN"
+image: "assets/images/Optigram-PostersRGBnoise_scaleLevel1356x200.png"
 ---
 
 *A blogpost for early career professionals in risk and resilience, cross posted with [Lloyd's Register Foundation Institute for the Public Understanding of Risk*](https://ipur.nus.edu.sg/2021/02/10/why-you-should-build-your-dataviz-toolset-early/)
@@ -56,7 +56,7 @@ Beyond inner reflection, there are many resources online that can help you get s
 
 Reading isn't your jam? There are podcasts out there too like Data Stories (https://datastori.es/) or Policy Viz (https://policyviz.com/podcast/).
 
-And finally, sign up for a challenge, a class, or experience! These will give you a reason to motivate you to build your skills. IPUR's[ Optigram data visualization competition](https://ipur.nus.edu.sg/2020/01/02/optigram-2020-climate-change-in-asia/) is geared towards you early career folks (age 15 to 35) to develop your own idea which merges scientific data and digital media to communicate risk. Another option is the[ Risk & Resilience DAT/Artathon](http://datartathon.com/), where yours truly hosts a virtual workshop which brings together early career folks from around the world to teach each other visualization skills and work on individual projects.
+And finally, sign up for a challenge, a class, or experience! These will give you a reason to motivate you to build your skills. IPUR's[ Optigram data visualization competition](https://ipur.nus.edu.sg/2020/01/02/optigram-2020-climate-change-in-asia/) is geared towards you early career folks (age 15 to 35) to develop your own idea which merges scientific data and digital media to communicate risk. Another option is the[ Risk & Resilience DAT/Artathon](http://datartathon.com/), where yours truly hosts a virtual workshop which brings together early career folks from around the world to teach each other visualization skills and work on individual projects. Some of the final projects from the 2020 DAT/Artathon can be found in our [gallery](http://datartathon.com/gallery/).
 
 ### **References**
 
@@ -72,6 +72,6 @@ And finally, sign up for a challenge, a class, or experience! These will give yo
 
 [^6]: The Tempestry Project, *Whidbey Island NAS.* 2018, the Art of Resilience.[ https://www.artofresilience.art/gallery/whidbey-island-nas/](https://www.artofresilience.art/gallery/whidbey-island-nas/)
 
-[^7][ https://en.wikipedia.org/wiki/Graphicacy](https://en.wikipedia.org/wiki/Graphicacy)
+[^7]: [ https://en.wikipedia.org/wiki/Graphicacy](https://en.wikipedia.org/wiki/Graphicacy)
 
 [^8]: Cairo A (2017) Uncertainty and graphicacy : How should statisticians, journalists, and designers reveal uncertainty in graphics for public consumption? Available at:[ https://powerfromstatistics.eu/outlook-report](https://powerfromstatistics.eu/outlook-report).
