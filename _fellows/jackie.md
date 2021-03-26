@@ -3,6 +3,9 @@ layout: fellow
 name:  "Jackie Ratner"
 current_affiliation: "Columbia University’s National Center for Disaster Preparedness"
 location: "New York, United States"
+socials:
+    linkedin: https://www.linkedin.com/in/jacqueline-ratner-new-york/
+    twitter: 
 author: arogya
 date: 2020-11-22
 categories: [ Fellows ]

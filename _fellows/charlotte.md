@@ -3,6 +3,9 @@ layout: fellow
 name:  "Charlotte Gendre"
 current_affiliation: "IRMA Associates"
 location: "Istanbul, Turkey"
+socials:
+    linkedin: 
+    twitter: 
 author: arogya
 date: 2020-11-22
 categories: [ Fellows ]

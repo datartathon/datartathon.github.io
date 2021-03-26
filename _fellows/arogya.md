@@ -7,6 +7,9 @@ author: arogya
 date: 2020-08-11
 categories: [ Fellows ]
 tags: [ People ]
+socials:
+    linkedin: https://www.linkedin.com/in/arogya-koirala-b192406b/
+    twitter: https://twitter.com/koiralaaaa
 image: assets/images/datartathon/arogya2.jpeg
 ---
 

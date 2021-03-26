@@ -3,6 +3,9 @@ layout: fellow
 name:  "Shane Crawford"
 current_affiliation: "National Institute of Standards and Technology"
 location: "Washington D.C., United States"
+socials:
+    linkedin: https://www.linkedin.com/in/pscrawford/
+    twitter: 
 author: arogya
 date: 2020-11-22
 categories: [ Fellows ]

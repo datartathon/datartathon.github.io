@@ -3,6 +3,9 @@ layout: fellow
 name:  "Haley Sims"
 current_affiliation: "Arup"
 location: "San Francisco, United States"
+socials:
+    linkedin: https://www.linkedin.com/in/haley-sims-260/
+    twitter: 
 author: arogya
 date: 2020-11-22
 categories: [ Fellows ]

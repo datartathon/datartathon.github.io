@@ -3,6 +3,9 @@ layout: fellow
 name:  "Ana Gonzalez"
 current_affiliation: ""
 location: "Mexico"
+socials:
+    linkedin: 
+    twitter: 
 author: arogya
 date: 2020-11-22
 categories: [ Fellows ]

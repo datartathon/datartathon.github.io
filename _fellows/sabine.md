@@ -3,6 +3,9 @@ layout: fellow
 name:  "Sabine Loos"
 current_affiliation: "Stanford Urban Resilience Initiative"
 location: "San Fransisco, United States"
+socials:
+    linkedin: https://www.linkedin.com/in/sabine-loos/
+    twitter: https://twitter.com/sab_loos
 author: arogya
 date: 2020-11-22
 categories: [ Fellows ]

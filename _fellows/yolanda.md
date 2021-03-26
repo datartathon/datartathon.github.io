@@ -3,6 +3,9 @@ layout: fellow
 name:  "Yolanda Lin"
 current_affiliation: "University of New Mexico"
 location: "Albuquerque, United States"
+socials:
+    linkedin: https://www.linkedin.com/in/yolanda-c-lin
+    twitter: https://twitter.com/DisasterYolanda
 author: arogya
 date: 2020-11-22
 categories: [ Fellows ]

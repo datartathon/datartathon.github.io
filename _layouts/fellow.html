@@ -9,8 +9,24 @@ post_class: post-template
     <!-- Post Title -->
     <!-- <span class="badge badge-primary" style="font-size:0.7rem">DAT/ARTATHON FELLOWS</span> -->
     <h1 class="posttitle">{{ page.name }}</h1>
+
     <p style="font-size: 1.3rem; margin:0">{{ page.current_affiliation }}</p>
     <p style="font-size: 1.3rem; margin:0">{{ page.location }}</p>
+
+    {% if page.socials.linkedin %}
+    <a style="font-size: 1.5em; color: #0e76a8; text-decoration: none" href={{page.socials.linkedin}}>
+        <i class="fab fa-linkedin"></i>
+    </a>
+    {% endif %}
+
+    
+    {% if page.socials.twitter %}
+    <a style="font-size: 1.5em; color: #00acee; text-decoration: none" href={{page.socials.twitter}}>
+        <i class="fab fa-twitter"></i>
+    </a>
+    {% endif %}
+
+
     <!-- Author & Date  Box
     {% assign author = site.authors[page.author] %}
     {% if page.author %}

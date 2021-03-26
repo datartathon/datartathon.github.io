@@ -3,6 +3,9 @@ layout: fellow
 name:  "Srijan Manandhar"
 current_affiliation: "Youth Innovation Lab"
 location: "Kathmandu, Nepal"
+socials:
+    linkedin: 
+    twitter: 
 author: arogya
 date: 2020-11-22
 categories: [ Fellows ]

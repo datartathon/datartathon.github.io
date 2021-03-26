@@ -3,6 +3,9 @@ layout: fellow
 name:  "Max Schneider"
 current_affiliation: "University of Washington"
 location: "Seattle, United States"
+socials:
+    linkedin: 
+    twitter: 
 author: arogya
 date: 2020-11-22
 categories: [ Fellows ]
