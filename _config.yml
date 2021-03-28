@@ -7,7 +7,7 @@ favicon: 'assets/images/datartathon/logo.png'
 # baseurl: /s
 google_analytics: 'G-R16EKV4CWS'
 disqus: 'datartathon'
-# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://datartathon.us1.list-manage.com/subscribe/post?u=a8947407d3f635f9417d9eb0f&amp;id=8d0ee3f9d9'
 include: ["_pages"]
 permalink: /:title/
 # email: wowthemesnet@gmail.com
