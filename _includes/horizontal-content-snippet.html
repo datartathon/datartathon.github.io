@@ -1,20 +1,26 @@
-<div class="row align-items-end my-5 ">
-    <div class="col-12 card h-100">
-        <div class="row">
-       
-            <div class="col-md-4" style="margin-left: -15px">
-                <img class="img-fluid" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
+<div class="col-md-6 my-5 card  h-100">
+    <div class="row">
+
+        <div class="col-md-12 px-3">
+            <div class="row m-2 custom-bg custom-shadow ">
+
+            <div class="col-md-12 p-0">
+                <a href="{{ site.baseurl }}{{ post.url }}"><img class="img-fluid" src="{% if post.image contains " ://" %}{{ post.image }}{% else %}{{ site.baseurl
+                    }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
+                </a>
             </div>
 
-            <div class="col-md-8 p-4" style="margin-left: -15px">
-                <h2><a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-                <br/>
-                <p style="font-size:1.3rem">{{post.excerpt | strip_html | truncatewords: 20 }}</p>
+            <div class="col-md-12 p-4">
+                <h2><a class="" style="font-size:1.3rem" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                </h2>
+                <br />
+                <p style="font-size:1.1rem; font-weight:300">{{post.excerpt | strip_html | truncatewords: 20 }}</p>
 
+                <a href="{{ site.baseurl }}{{ post.url }}"><input type="button" value="Learn more ➨" name="Learn more"  class=" custom-button "></input></a>
             </div>
 
 
         </div>
     </div>
- 
+    </div>
 </div>

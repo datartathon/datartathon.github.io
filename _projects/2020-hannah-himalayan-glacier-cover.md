@@ -6,6 +6,7 @@ date: 2020-11-30
 categories: [ projects ]
 cover: false
 tags: [ DATArtathon2020 ]
+excerpt: This interactive slider visualisation compares summer Himalayan glacial cover in 2004 and 2018. Anecdotal photographs are often used to shed light onto the rapid melting of the Himalayan ice cap.
 image: assets/images/2004-vs-2018 - Hannah Melville-Rea.gif
 ---
      

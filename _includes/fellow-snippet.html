@@ -1,5 +1,5 @@
 <div class="row align-items-end my-5 ">
-    <div class="col-12 card h-100">
+    <div class="col-12 card h-100 custom-bg custom-shadow">
         <div class="row">
        
             <div class="col-md-4" style="margin-left: -15px">
@@ -7,12 +7,12 @@
             </div>
 
             <div class="col-md-8 p-4" style="margin-left: -15px">
-                <h2><a class="text-dark" href="{{ site.baseurl }}{{ fellow.url }}">{{ fellow.name }}</a></h2>
+                <h2><a class="custom-color" href="{{ site.baseurl }}{{ fellow.url }}">{{ fellow.name }}</a></h2>
                 <!-- <p style="font-size:1.2rem; margin:0">{{fellow.current_affiliation}}</p> -->
-                <p style="font-size:1.2rem; margin:0">{{fellow.location}}</p>
+                <p style="font-size:1.2rem; margin:0" class="custom-color">{{fellow.location}}</p>
                 <br/>
-                <p style="font-size:1.3rem">{{fellow.excerpt | strip_html | truncatewords: 30 }}</p>
-                <a href="{{ site.baseurl }}{{ fellow.url }}"><input type="button" value="Read more ➨" name="Learn more"  class="heart"></input></a>
+                <p style="font-size:1.3rem" class="custom-p">{{fellow.excerpt | strip_html | truncatewords: 30 }}</p>
+                <a href="{{ site.baseurl }}{{ fellow.url }}"><input type="button" value="Read more ➨" name="Learn more"  class="custom-button"></input></a>
             </div>
 
 

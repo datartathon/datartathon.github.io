@@ -7,6 +7,7 @@ cover: false
 categories: [ projects ]
 tags: [ DATArtathon2020 ]
 image: assets/images/TheRiskZoo-wide.png
+excerpt: Animal kingdom metaphors are often invoked in the disaster risk world for their accessibility and familiarity when discussing difficult or uncomfortable topics.
 ---
      
 DAT/Artist: [Yolanda Lin](http://datartathon.com/fellows/yolanda), 2020. 

@@ -1,33 +1,34 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
 
-<div class="blog-grid-item">
-    <div class="card h-100">
+<div class="blog-grid-item round-border custom-bg custom-shadow custom-border custom-hover" >
+    <div class="card h-100 round-border custom-bg">
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ post.url }}">
                 {% if post.image %}
-
+                
+      
                     {% if site.lazyimages == "enabled" %}
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
+                        <img class="round-border img-thumb lazyimg" style="object-fit: cover; opacity: 0.8" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
                     {% else %}
-                        <img class="img-thumb" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}"> 
+                        <img class="round-border img-thumb"  style="object-fit: cover; opacity: 0.8" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}"> 
                     {% endif %}
 
                 {% endif %}
             </a>
         </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <div class="card-body custom-color">
+            <h2 class="card-title" >
+                <a class="custom-color" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 {% if post.rating %}
                 <div class="mb-2 mt-2 font-weight-normal">
                 {% include star_rating_postbox.html %}
                 </div>
                 {% endif %}
             </h2>
-            <h4 style="font-size: 1.3rem;" class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
+            <h4 style="font-size: 1.3rem; font-weight:300" class="card-text">{{ post.excerpt | strip_html | truncatewords:20 }}</h4>
         </div>
-        <div class="card-footer bg-white">
+        <div class="card-footer custom-color ">
             <div class="wrapfooter">
                 {% if post.author %}
                 <span class="meta-footer-thumb">

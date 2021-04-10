@@ -7,6 +7,7 @@ categories: [ projects ]
 cover: false
 tags: [ DATArtathon2020 ]
 image: assets/images/CARES.png
+excerpt: This project is intended to de-mystify the emergency appropriations process in America by following the initial appropriation amounts through their intended programs and to the end beneficiaries.
 ---
 
      

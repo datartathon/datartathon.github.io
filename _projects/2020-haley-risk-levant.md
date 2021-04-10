@@ -6,6 +6,7 @@ date: 2020-12-01
 categories: [ projects ]
 cover: false
 tags: [ DATArtathon2020 ]
+excerpt: In 1927, a large magnitude Mw 6.3 earthquake originating on the Dead Sea Fault shook the Levant Region in the Middle East, leaving in its wake massive destruction and over 287 fatalities.
 image: assets/images/haley.png
 ---
 

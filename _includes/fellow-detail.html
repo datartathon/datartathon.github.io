@@ -2,10 +2,12 @@
 
     <div class="row ">
         
-        <div class=col-md-12 style="font-size: 1.2rem;"> 
+        <div class=col-md-12 style="font-size: 1.3rem; font-weight: 300;"> 
             <img style="float: right;margin-left: 35px; margin-bottom: 15px; width: 250px" class=" {% if page.imageshadow %} image-shadow {% endif %}" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
             <p style="text-align: justify; 
-            font-size: 25px; ">{{content}}</p>
+            font-size: 25px; ">
+            {{content}}
+        </p>
         </div>
         <div class="col-md-5 mt-4">
         </div>

@@ -19,4 +19,4 @@ Co-founders [Sabine](http://datartathon.com/fellows/sabine) and [Yolanda](http:/
 
 Co-organizer and technical advisor [Arogya](http://datartathon.com/fellows/arogya) is an information systems designer. He has experience in building data-driven systems, and facilitating workshops for data users (volunteer mappers, government officials, activists, journalists) in different parts of the country.       
 
-<img src = "assets/images/datartathon/sabyolaro.jpg"/>
+<img class="custom-shadow" src = "assets/images/datartathon/sabyolaro.jpg"/>
