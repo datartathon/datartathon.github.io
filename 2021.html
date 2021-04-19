@@ -1,6 +1,8 @@
 ---
 layout: default
 title: DAT/Artathon 2021 - Call for applications
+image: assets/images/2021flyer.png
+
 ---
 
 <style>
@@ -14,24 +16,55 @@ title: DAT/Artathon 2021 - Call for applications
 </style>
 
 <div class="row">
-    <div class="col-md-8">
-        <!-- <h2 style="font-size: 1.6rem; ">Applications for 2021 are now open </h2> -->
-    </div>
-    <div class="col-md-4 p-0">
-    </div>
-
-    <div class="col-md-8 pt-4">
+    <div class="col-md-8 pt-4 ">
         <p style="font-size: 1.8rem; font-weight:700; line-height: 1.5; padding-right:70px" class="pb-4">We are pleased
             to announce that applications for the second cohort
             of the Risk and
             Resilience DAT/Artathon are now open.
         </p>
+
+
+
+    </div>
+</div>
+
+<div class="row">
+
+
+    <div class="col-md-12 ">
+        <!-- <h2 style="font-size: 1.6rem; ">Applications for 2021 are now open </h2> -->
+
+        <div class=" float-left entry-featured-image custom-shadow custom-indent"  style="border-radius: 6px; margin:0; margin-bottom: 20px;  ">
+            {% if site.lazyimages == "enabled" %}
+            <img style="border-radius: 6px;"
+                class="featured-image img-float lazyimg {% if page.imageshadow %} image-shadow {% endif %}"
+                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
+                data-src="{% if page.image contains " ://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image
+                }}{% endif %}" alt="{{ page.title }}">
+            {% else %}
+            <img style="border-radius: 6px;" class="featured-image img-float {% if page.imageshadow %} image-shadow {% endif %}"
+                src="{{site.baseurl}}/assets/images/2021flyer.png" alt="{{ page.title }}">
+            {% endif %}
+        </div>
+
+    </div>
+    <div class="col-md-4 p-0">
+    </div>
+
+
+</div>
+
+<div class="row">
+    <div class="col-md-8 pt-4 ">
+
         <p class="custom-p">
             DAT/Artathon is a free, four-week virtual workshop that seeks to bring together early career* professionals
             working to visualize and tell stories from risk and resilience data.
 
         </p>
-        <p class="custom-p"> Our last cohort was global, and saw the coming together of 12 fellows from 6
+
+
+        <p class="custom-p"> Our last cohort was truly global, and saw the coming together of 12 fellows from 6
             different countries (<a href="/fellows">view bios here</a>). The ideas they explored were equally diverse,
             ranging from visualizing changes in Himalayan
             glacial
@@ -51,16 +84,25 @@ title: DAT/Artathon 2021 - Call for applications
             </b>
         </p>
 
-        <a href="{{ site.baseurl }}{{ post.url }}"><input type="button" value="Apply Now" name="Apply Now"
+        <a href="https://forms.gle/gTfeYxC2z9CPRsgD6"><input type="button" value="Apply Now" name="Apply Now"
                 class=" black-button "></input></a>
         <br />
         <br />
         <p class="custom-p" style=" font-size: 1rem; ">
-            *While we encourage all to apply, in case of applicants with matching qualifications, preference will be given to those applicants who are within 5 years of their last degree.
+            *While we encourage all to apply, in case of applicants with matching qualifications, preference will be
+            given to those applicants who are within 5 years of their last degree.
         </p>
 
 
 
+
+        <h3 class="custom-header">What you'll do</h3>
+
+        <p class="custom-p">
+            You will be contributing to six virtual, 2-hour sessions spanning over a period of 4 weeks. In the first
+            three sessions, you will be sharing your skills with the cohort. Following this, you will then be working on
+            your individual projects, whilst also providing and receiving feedback around you and your peers' work.
+        </p>
 
 
         <h3 class="custom-header">What you'll need</h3>
@@ -114,6 +156,24 @@ title: DAT/Artathon 2021 - Call for applications
                         </div>
                     </div>
                 </div>
+
+                <div class="py-4">
+                    <p class="custom-p">Connecting with a group of really passionate people with a variety of different
+                        backgrounds created a really unique and optimal environment for learning new skills and new ways
+                        of thinking about communicating technical work. Having such a supportive and inquisitive
+                        community really inspired and motivated me to create a project I was proud of and I cannot
+                        recommend this experience enough!</p>
+                    <div class="d-flex align-items-center   ">
+
+                        <img src="/assets/images/datartathon/haley.png" alt="Avatar" class="custom-avatar">
+                        <div style="margin-left: 10px; font-size:1rem">
+                            <span> Haley Sims</span>
+                            <br />
+                            <span> D/A 2020 Fellow</span>
+
+                        </div>
+                    </div>
+                </div>
             </blockquote>
         </div>
 
@@ -131,7 +191,6 @@ title: DAT/Artathon 2021 - Call for applications
 
     </div>
 </div>
-
 
 
 

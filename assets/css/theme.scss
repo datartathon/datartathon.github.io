@@ -126,6 +126,16 @@ $enable-rounded: false;
 }
     
 
+.custom-indent {
+    margin-left:-30px !important;
+}
+
+
+@media (max-width: 1000px) {
+    .custom-indent {
+        margin-left:0px !important;
+    }
+}
 
 // general
 body, input, button, select, optgroup, textarea {   
