@@ -15,8 +15,9 @@ Moving forward, our mission is to create more ways to connect early career indiv
 
 ## About us
 
-Co-founders [Sabine](http://datartathon.com/fellows/sabine) and [Yolanda](http://datartathon.com/fellows/yolanda) are disaster analysts,  researchers, & visualization enthusiasts. They have collective experience in facilitating collaborative workshops (see [here](https://disaster-analytics.com/blog/counterfactual-black-swans-workshop) and [here](https://disaster-analytics.com/blog/converging-disaster-researchers-nhw)) and engaging audiences with data ([here](https://www.sabine-loos.com/blog-1/afterquake-visrisk)). 
+Co-organizers [Sabine](http://datartathon.com/fellows/sabine) and [Yolanda](http://datartathon.com/fellows/yolanda) are disaster analysts,  researchers, & visualization enthusiasts. They have collective experience in facilitating collaborative workshops (see [here](https://disaster-analytics.com/blog/counterfactual-black-swans-workshop) and [here](https://disaster-analytics.com/blog/converging-disaster-researchers-nhw)) and engaging audiences with data ([here](https://www.sabine-loos.com/blog-1/afterquake-visrisk)). 
 
-Co-organizer and technical advisor [Arogya](http://datartathon.com/fellows/arogya) is an information systems designer. He has experience in building data-driven systems, and facilitating workshops for data users (volunteer mappers, government officials, activists, journalists) in different parts of the country.       
+Co-organizer and technical advisor [Arogya](http://datartathon.com/fellows/arogya) is an information systems designer from Nepal. He has experience in building data-driven systems, and facilitating workshops for data users (volunteer mappers, government officials, activists, journalists) in different parts of the country. 
+
 
 <img class="custom-shadow" src = "assets/images/datartathon/sabyolaro.jpg"/>
