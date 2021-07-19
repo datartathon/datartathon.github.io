@@ -4,21 +4,32 @@ title: DAT/Artathon Fellows
 ---
 
 <div class="row">
-<div class="col-md-8">
-    <p style="font-size: 1.6rem; ">Learn more about the DAT/Artathon Fellows. </p></p>    
-</div>
+    <div class="col-md-8">
+        <!-- <p style="font-size: 1.6rem; ">Learn more about the DAT/Artathon Fellows. </p> -->
+    </div>
     <div class="col-md-4 p-0">
-            </div>
+    </div>
 
 </div>
 
 
-{% assign sortedPosts = site.fellows | sort: 'title' %}
-{% for fellow in sortedPosts  %}
-      {% include fellow-snippet.html %}
+<h1>2021 Fellows</h1>
+
+{% assign fellows2021 = site.fellows | where:'year', "2021" | sort: 'title' %}
+
+{% for fellow in fellows2021 %}
+{% include fellow-snippet.html %}
+{% endfor %}
+
+<h1>2020 Fellows</h1>
+
+{% assign fellows2020 = site.fellows | where:'year', "2020" | sort: 'title' %}
+
+{% for fellow in fellows2020 %}
+{% include fellow-snippet.html %}
 {% endfor %}
 
 
-<br/>
-<br/>
-<br/>
+<br />
+<br />
+<br />

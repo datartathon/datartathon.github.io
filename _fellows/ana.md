@@ -3,6 +3,7 @@ layout: fellow
 name:  "Ana Gonzalez"
 current_affiliation: ""
 location: "Mexico"
+year: "2020"
 socials:
     linkedin: 
     twitter: 

@@ -3,6 +3,7 @@ layout: fellow
 name:  "Max Schneider"
 current_affiliation: "University of Washington"
 location: "Seattle, United States"
+year: "2020"
 socials:
     linkedin: 
     twitter: 

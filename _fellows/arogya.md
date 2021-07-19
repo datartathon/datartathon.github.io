@@ -3,6 +3,7 @@ layout: fellow
 name:  "Arogya Koirala"
 current_affiliation: "Kathmandu Living Labs"
 location: "Kathmandu, Nepal"
+year: "2020"
 author: arogya
 date: 2020-08-11
 categories: [ Fellows ]

@@ -3,6 +3,7 @@ layout: fellow
 name:  "Ayse Demir"
 current_affiliation: "Gap Inc."
 location: "San Fransisco, United States"
+year: "2020"
 socials:
     linkedin: 
     twitter: 

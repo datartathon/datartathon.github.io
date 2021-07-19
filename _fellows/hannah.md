@@ -3,6 +3,7 @@ layout: fellow
 name:  "Hannah Melville-Rea"
 current_affiliation: "NYU Abu Dhabi"
 location: "Abu Dhabi, UAE"
+year: "2020"
 socials:
     linkedin: https://www.linkedin.com/in/hannahmelvillerea/
     twitter: 
