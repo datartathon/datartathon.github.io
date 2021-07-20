@@ -5,8 +5,8 @@ current_affiliation: ""
 location: "Pune, India"
 year: "2021"
 socials:
-    linkedin: 
-    twitter: 
+    linkedin: https://www.linkedin.com/in/shivanizite
+    twitter: https://twitter.com/ShivaniZite
 author: arogya
 date: 2021-07-19
 categories: [ Fellows ]

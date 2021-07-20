@@ -5,8 +5,8 @@ current_affiliation: ""
 location: "Grand Marais, United States"
 year: "2021"
 socials:
-    linkedin: 
-    twitter: 
+    linkedin: https://www.linkedin.com/in/shelby-ahrendt-9447a2138/
+    twitter: https://twitter.com/AhrendtShelby
 author: arogya
 date: 2021-07-19
 categories: [ Fellows ]

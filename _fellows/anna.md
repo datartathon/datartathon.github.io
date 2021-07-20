@@ -5,7 +5,7 @@ current_affiliation: ""
 location: "New York, United States"
 year: "2021"
 socials:
-    linkedin: 
+    linkedin: https://www.linkedin.com/in/anna-steinbock-961b921b6/
     twitter: 
 author: arogya
 date: 2021-07-19

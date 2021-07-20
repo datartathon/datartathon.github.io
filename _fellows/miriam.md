@@ -6,7 +6,7 @@ location: "New York, United States"
 year: "2021"
 socials:
     linkedin: 
-    twitter: 
+    twitter: https://twitter.com/zentouro
 author: arogya
 date: 2021-07-19
 categories: [ Fellows ]

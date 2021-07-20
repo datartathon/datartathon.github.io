@@ -5,7 +5,7 @@ current_affiliation: ""
 location: "Bakersfield, United States"
 year: "2021"
 socials:
-    linkedin: 
+    linkedin: https://www.linkedin.com/in/shikha-srinivas/
     twitter: 
 author: arogya
 date: 2021-07-19

@@ -5,8 +5,8 @@ current_affiliation: ""
 location: "Enschede, The Netherlands"
 year: "2021"
 socials:
-    linkedin: 
-    twitter: 
+    linkedin: https://www.linkedin.com/in/muhammad-saleem056/
+    twitter: https://twitter.com/Muhamma28397035
 author: arogya
 date: 2021-07-19
 categories: [ Fellows ]

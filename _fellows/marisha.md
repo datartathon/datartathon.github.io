@@ -5,7 +5,7 @@ current_affiliation: ""
 location: "Sacramento, United States"
 year: "2021"
 socials:
-    linkedin: 
+    linkedin: http://linkedin.com/in/marishakashyap
     twitter: 
 author: arogya
 date: 2021-07-19

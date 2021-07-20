@@ -5,7 +5,7 @@ current_affiliation: ""
 location: "San Francisco, United States"
 year: "2021"
 socials:
-    linkedin: 
+    linkedin: https://www.linkedin.com/in/daniel-furman-702b02160/
     twitter: 
 author: arogya
 date: 2021-07-19

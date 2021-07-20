@@ -5,8 +5,8 @@ current_affiliation: ""
 location: "Greenville, United States"
 year: "2021"
 socials:
-    linkedin: 
-    twitter: 
+    linkedin: https://linkedin.com/in/kelleydepolt
+    twitter: https://twitter.com/KDepolt
 author: arogya
 date: 2021-07-19
 categories: [ Fellows ]

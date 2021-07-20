@@ -5,7 +5,7 @@ current_affiliation: ""
 location: "Berkeley, United States"
 year: "2021"
 socials:
-    linkedin: 
+    linkedin: https://linkedin.com/in/jaewon-saw-eit-301383130
     twitter: 
 author: arogya
 date: 2021-07-19
