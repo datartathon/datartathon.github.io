@@ -18,8 +18,6 @@ excerpt: A data-driven story about California's uncertain climate future, indica
 
 DAT/Artist: [Daniel Furman](http://datartathon.com/fellows/daniel), 2021. 
 
-![](/assets/images/haley.png)
-
 A data-driven story about California's uncertain climate future, indicating worrisome levels of temperature warming and precipitation decline, particularly in the Sierra Nevadas (Giant sequoias) and Mojave Desert (Joshua trees) respectively. These climatic trends unfortunately have the potential to intensify wildfire, drought, and biodiversity decline across the West Coast.
 
 Made with the support of the [Risk & Resilience DAT/Artathon 2021](https://datartathon.com).
