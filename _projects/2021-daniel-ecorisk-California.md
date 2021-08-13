@@ -6,17 +6,16 @@ date: 2021-8-13
 cover: false
 categories: [ projects ]
 tags: [ DATArtathon2021 ]
-image: assets/images/ecorisk-forecasts-landscape.gif
+image: assets/images/ecorisk-horizontal.gif
 excerpt: A data-driven story about California's uncertain climate future, indicating worrisome levels of temperature warming and precipitation decline.
 ---
 
+DAT/Artist: [Daniel Furman](http://datartathon.com/fellows/daniel), 2021. 
 
 <img src="assets/images/ecorisk-vertical-1.png" style="border:0px;margin:0px" alt="vertical 1"/><!--
 --><img src="assets/images/ecorisk-vertical-2.gif" style="border:0px;margin:0px" alt="vertical 2"/><!--
 --><img src="assets/images/ecorisk-vertical-3.png" style="border:0px;margin:0px" alt="vertical 3"/>
 <br>
-
-DAT/Artist: [Daniel Furman](http://datartathon.com/fellows/daniel), 2021. 
 
 A data-driven story about California's uncertain climate future, indicating worrisome levels of temperature warming and precipitation decline, particularly in the Sierra Nevadas (Giant sequoias) and Mojave Desert (Joshua trees) respectively. These climatic trends unfortunately have the potential to intensify wildfire, drought, and biodiversity decline across the West Coast.
 
