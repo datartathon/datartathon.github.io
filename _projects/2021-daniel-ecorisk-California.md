@@ -17,7 +17,7 @@ DAT/Artist: [Daniel Furman](http://datartathon.com/fellows/daniel), 2021.
 --><img src="assets/images/ecorisk-vertical-3.png" style="border:0px;margin:0px" alt="vertical 3"/>
 <br>
 
-A data-driven story about California's uncertain climate future, indicating worrisome levels of temperature warming and precipitation decline, particularly in the Sierra Nevadas (Giant sequoias) and Mojave Desert (Joshua trees) respectively. These climatic trends unfortunately have the potential to intensify wildfire, drought, and biodiversity decline across the West Coast.
+A data-driven story about California's uncertain climate future, forecasting worrisome levels of temperature warming and precipitation decline, particularly in the Sierra Nevadas (Giant sequoias) and Mojave Desert (Joshua trees) respectively. These trends unfortunately have the potential to intensify wildfire, drought, and biodiversity decline across the West Coast.
 
 Made with the support of the [Risk & Resilience DAT/Artathon 2021](https://datartathon.com).
 
