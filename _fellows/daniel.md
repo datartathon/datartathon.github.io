@@ -14,4 +14,4 @@ tags: [ People ]
 image: assets/images/datartathon/daniel.png
 ---
 
-Daniel is a Master's student at UC Berkeley studying Information Systems, looking to break into the technology sector as a data scientist afterwards. His research interests lie in environmental science and ML, which developed across his undergraduate studies at UPenn. Aside from his scientific interests, he is also an avid surfer and hiker and enjoys sharing time in the outdoors with friends. 
+Daniel is a graduate student at UC Berkeley in the Master's of Information Management and Systems program. His research interests currently lie in applied data science, which developed across his undergraduate studies at UPenn and research experiences at Harvey Mudd College and James Cook University. Aside from his scientific interests, he is also an avid surfer and hiker and enjoys sharing time in the outdoors with friends. 
