@@ -12,14 +12,22 @@ excerpt: A data-driven story about California's uncertain climate future, indica
 
 DAT/Artist: [Daniel Furman](http://datartathon.com/fellows/daniel), 2021. 
 
-<img src="assets/images/ecorisk-vertical-1.png" style="border:0px;margin:0px" alt="vertical 1"/><!--
---><img src="assets/images/ecorisk-vertical-2.gif" style="border:0px;margin:0px" alt="vertical 2"/><!--
---><img src="assets/images/ecorisk-vertical-3.png" style="border:0px;margin:0px" alt="vertical 3"/>
-<br>
-
 A data-driven story about California's uncertain climate future, forecasting worrisome levels of temperature warming and precipitation decline, particularly in the Sierra Nevadas (Giant sequoias) and Mojave Desert (Joshua trees) respectively. These trends unfortunately have the potential to intensify wildfire, drought, and biodiversity decline across the West Coast.
 
 Made with the support of the [Risk & Resilience DAT/Artathon 2021](https://datartathon.com).
+
+<div className="row m-0">
+<div class="col-md-12 m-0 p-0">
+<img src="/assets/images/ecorisk-vertical-1.png" style="border:0px;margin:0px" alt="vertical 1"/>
+<img src="/assets/images/ecorisk-vertical-2.gif" style="border:0px;margin:0px" alt="vertical 2"/>
+<img src="/assets/images/ecorisk-vertical-3.png" style="border:0px;margin:0px" alt="vertical 3"/>
+</div>
+</div>
+
+
+
+
+<br>
 
 **Code:**
 
