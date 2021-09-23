@@ -38,11 +38,11 @@ I tried the concept of inclusive visualisation by looking at the completeness as
 <img src="/assets/images/muhammad_1.png" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
   
-  <div class="col-md-6">
+  <div class="col-md-6 pb-3">
 <img src="/assets/images/muhammad_2.png" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
   
-  <div class="col-md-8 offset-md-2">
+  <div class="col-md-12">
 <img src="/assets/images/muhammad_3.gif" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
 </div>
@@ -60,15 +60,15 @@ I discovered that La Parguera is a very nice tourist hotspot, which means a sour
   2. I counted the total buildings and buildings with more than one tag, accumulate it into hexagonal polygons, and divide them to formulate the quality index.
 
 <div class="row m-0">
-<div class="col-md-6 offset-md-3">
+<div class="col-md-8 offset-md-2">
 <img src="/assets/images/muhammad_4.png" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
   
-  <div class="col-md-6">
+  <div class="col-md-8 offset-md-2 py-3">
 <img src="/assets/images/muhammad_5.png" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
   
-  <div class="col-md-6">
+  <div class="col-md-8 offset-md-2">
 <img src="/assets/images/muhammad_6.gif" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
 </div>
