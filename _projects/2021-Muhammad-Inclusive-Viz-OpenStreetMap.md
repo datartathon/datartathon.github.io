@@ -2,7 +2,7 @@
 layout: post
 title:  "No, dinner is for everyone on the table!"
 # author: daniel
-date: 2021-8-13
+date: 2021-9-23
 cover: false
 categories: [ projects ]
 tags: [ DATArtathon2021 ]
