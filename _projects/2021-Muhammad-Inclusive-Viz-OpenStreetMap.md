@@ -47,6 +47,9 @@ I tried the concept of inclusive visualisation by looking at the completeness as
 </div>
 </div>
 
+<br/>
+<br/>
+
 #### Case for *“there is always another way”*
 
 In La Parguera the impending disaster is an earthquake. The data for building footprints is fairly complete from the manual inspection from the available satellite imagery. One of the information that is required for the earthquake response is the material and age of the building to estimate the vulnerable buildings.
