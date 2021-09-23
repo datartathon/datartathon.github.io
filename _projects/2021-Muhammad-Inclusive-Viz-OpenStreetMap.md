@@ -33,7 +33,7 @@ Other than making the visualisation “Understandable for All” there is anothe
 
 I tried the concept of inclusive visualisation by looking at the completeness aspect of the quality. This means I visualised the areas where there is possible incomplete data in OSM. Now there is one more thing, that is the regional context. If we would like to see the state of the data in OSM which has geographical and regional elements attached to it, we need to first realise the fact that context is a very important variable to consider while envisioning the quality. I choose two case-studies to show-case to visualise this concept: SAN PEDRO DE MACORÍS, Dominican Republic and La Parguera, Puerto Rico. I focused on the context of disaster or stressors for both case-studies.
 
-<div class="row">
+<div class="row pb-3">
 <div class="col-md-6">
 <img src="/assets/images/muhammad_1.png" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
@@ -47,8 +47,7 @@ I tried the concept of inclusive visualisation by looking at the completeness as
 </div>
 </div>
 
-<br/>
-<br/>
+
 
 #### Case for *“there is always another way”*
 
