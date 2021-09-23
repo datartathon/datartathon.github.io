@@ -34,15 +34,15 @@ Other than making the visualisation “Understandable for All” there is anothe
 I tried the concept of inclusive visualisation by looking at the completeness aspect of the quality. This means I visualised the areas where there is possible incomplete data in OSM. Now there is one more thing, that is the regional context. If we would like to see the state of the data in OSM which has geographical and regional elements attached to it, we need to first realise the fact that context is a very important variable to consider while envisioning the quality. I choose two case-studies to show-case to visualise this concept: SAN PEDRO DE MACORÍS, Dominican Republic and La Parguera, Puerto Rico. I focused on the context of disaster or stressors for both case-studies.
 
 <div class="row">
-<div class="col-md-4">
+<div class="col-md-6">
 <img src="/assets/images/muhammad_1.png" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
   
-  <div class="col-md-4">
+  <div class="col-md-6">
 <img src="/assets/images/muhammad_2.png" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
   
-  <div class="col-md-4">
+  <div class="col-md-8 offset-md-2">
 <img src="/assets/images/muhammad_3.gif" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
 </div>
@@ -64,11 +64,11 @@ I discovered that La Parguera is a very nice tourist hotspot, which means a sour
 <img src="/assets/images/muhammad_4.png" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
   
-  <div class="col-md-4 offset-md-2">
+  <div class="col-md-6">
 <img src="/assets/images/muhammad_5.png" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
   
-  <div class="col-md-4">
+  <div class="col-md-6">
 <img src="/assets/images/muhammad_6.gif" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
 </div>
