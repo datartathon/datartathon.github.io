@@ -6,59 +6,43 @@ image: assets/images/eeriflyer.png
 
 <style>
     a {
-        text-decoration: underline;
+    text-decoration: underline;
     }
-
     a:hover {
-        color: #000;
+    color: #000;
     }
-</style>
-
-<div class="row">
+ </style>
+ <div class="row">
     <div class="col-md-8 pt-4 ">
-       
-      
-        <p style="font-size: 1.8rem; font-weight:700; line-height: 1.5; padding-right:70px" class="pb-4">
-        
-         PARAGRAPH 1 here
-        </p>
-      
-        <p style="font-size: 1.8rem; font-weight:700; line-height: 1.5; padding-right:70px" class="pb-4">
-        
-         PARAGRAPH 1 here
-        </p>
-      
-      
-<a href="https://forms.gle/gTfeYxC2z9CPRsgD6"><input type="button" value="EXAMPLE BUTTON" name="Apply Now"
-                class=" black-button "></input></a>
-  
-      <div class="row">
-
-                <!-- IGNORE CODE BELOW, THIS IS JUST TO MAKE SURE IMAGES ARE DISPLAYED -->
-
-
-    <div class="col-md-12 ">
-
-        <div class=" float-left entry-featured-image custom-shadow custom-indent"  style="border-radius: 6px; margin:0; margin-bottom: 20px;  ">
-            {% if site.lazyimages == "enabled" %}
-            <img style="border-radius: 6px;"
+       <p style="font-size: 1.8rem; font-weight:700; line-height: 1.5; padding-right:70px" class="pb-4">
+          HEADER here
+       </p>
+       <p class="custom-p">
+          Paragraph 1 here
+       </p>
+       <p class="custom-p">
+          Paragraph 2 here
+       </p>
+       <a href="https://forms.gle/gTfeYxC2z9CPRsgD6"><input type="button" value="EXAMPLE BUTTON" name="Apply Now"
+          class=" black-button "></input></a>
+       <div class="row">
+          <!-- IGNORE CODE BELOW, THIS IS JUST TO MAKE SURE IMAGES ARE DISPLAYED -->
+          <div class="col-md-12 ">
+             <div class=" float-left entry-featured-image custom-shadow custom-indent"  style="border-radius: 6px; margin:0; margin-bottom: 20px;  ">
+                {% if site.lazyimages == "enabled" %}
+                <img style="border-radius: 6px;"
                 class="featured-image img-float lazyimg {% if page.imageshadow %} image-shadow {% endif %}"
                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
                 data-src="{% if page.image contains " ://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image
                 }}{% endif %}" alt="{{ page.title }}">
-            {% else %}
-            <img style="border-radius: 6px;" class="featured-image img-float {% if page.imageshadow %} image-shadow {% endif %}"
-                src="{{site.baseurl}}/assets/images/2021flyer.png" alt="{{ page.title }}">
-            {% endif %}
-        </div>
-
+                {% else %}
+                <img style="border-radius: 6px;" class="featured-image img-float {% if page.imageshadow %} image-shadow {% endif %}"
+                   src="{{site.baseurl}}/assets/images/2021flyer.png" alt="{{ page.title }}">
+                {% endif %}
+             </div>
+          </div>
+          <div class="col-md-4 p-0">
+          </div>
+       </div>
     </div>
-    <div class="col-md-4 p-0">
-    </div>
-
-
-</div>
-
-
-    </div>
-</div>
+ </div>
