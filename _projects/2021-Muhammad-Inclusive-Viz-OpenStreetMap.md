@@ -6,7 +6,7 @@ date: 2021-9-23
 cover: false
 categories: [ projects ]
 tags: [ DATArtathon2021 ]
-image: assets/images/muhammad_dv.png
+image: assets/images/muhammad_3.gif
 excerpt: Wide range of actors contribute to OpenStreetMap (OSM) with varying backgrounds and skills. Inclusive Visualisation of data quality in OpenStreetMap (OSM) can elevate the motivation and understanding of the data creators.
 ---
 
