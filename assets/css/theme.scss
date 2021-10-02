@@ -3,7 +3,7 @@
 ---
 
 $brown: #B59F62;
-$teal: #40FFDC;
+$teal: #7ca39b;
 $black: #111;
 $primary: $teal;
 $dark:    $black;
@@ -19,6 +19,10 @@ $enable-rounded: false;
     border: 1px solid red;
 
     // background-color: rgba(255,255,255,0.2);
+}
+
+a:hover {
+    text-decoration: none;
 }
 
 .round-border {
@@ -72,7 +76,7 @@ $enable-rounded: false;
     padding:15px;
     color: #fff;
     margin-left: -0px;
-    margin-top: 2rem;
+    margin-top: 1rem;
     margin-bottom: 1rem;
     min-width: 200px;
     font-weight: 700;
@@ -152,7 +156,7 @@ body {
     line-height:1.7;
     // background: #dccde8;
     // background: #DFDCCD;
-    background: #ffeedd;
+    background: #fff;
     // background: #084558;
     // background: #2e458a;
     // background: #3752A5;

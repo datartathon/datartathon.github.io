@@ -8,8 +8,11 @@ tags: [ DATArtathon2020 ]
 image: assets/images/datartathon/goodchart.jpg
 ---
 
-Our three week virtual event has involved a lot of resource sharing among us participants. Here's a running list of interesting resources for you to go through:
 
+
+The DAT/Artathon has involved a lot of resource sharing among all of us participants. Here's a running list of interesting resources for you to go through:
+- Corrinne shared [this scientific color palette by Crameri et. al.](https://www.fabiocrameri.ch/colourmaps/)
+- Jackie shared a new book: [Critical Disaster Studies](https://www.combinedacademic.co.uk/9780812224825/critical-disaster-studies/). It's announcing a new sub-discipline, and taking the view that disasters are a subjective sociopolitical construct. 
 - Sabine posted (kind of in response to Jackie Ratner) an article that talks about [when to break the rules in dataviz](https://medium.economist.com/why-you-sometimes-need-to-break-the-rules-in-data-viz-4d8ece284919)
 - Haley posted [which dogs are overrated or underrated](https://www.informationisbeautiful.net/visualizations/best-in-show-whats-the-top-data-dog/) (this was also included in aysedemir’s presentation)
 - Sabine posted a [good pie chart](https://images.app.goo.gl/DYTuPwJNaR2UUUaGA) (shown above)
@@ -23,3 +26,5 @@ Our three week virtual event has involved a lot of resource sharing among us par
 - Hannah shared [tips on making disability friendly websites](https://digitalsynopsis.com/design/web-designing-for-accessibility/)
 - Shane stumbled on this article on [smelling or listening to data](https://medium.com/nightingale/data-smellification-smelling-data-saved-my-life-d62166f0f831)
 - Jackie shared [https://rcrctoolbox.org](rcrctoolbox.org), an online toolbox filled with “tools” for addressing children’s resilience in disasters
+
+
