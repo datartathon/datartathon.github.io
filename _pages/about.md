@@ -24,4 +24,4 @@ Co-organizer and technical advisor [Arogya](http://datartathon.com/fellows/arogy
 
 If you'd like to support the DAT/Artathon co-founders, please feel free to buy us a coffee using the button below. All proceeds will go towards maintaining this site and running our DAT/Artathon workshop.
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="datartathon" data-color="#7CA39B" data-emoji="☕"  data-font="Casper" data-text="Buy us a coffee" data-outline-color="#ffffff" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="datartathon" data-color="#7CA39B" data-emoji="☕"  data-font="Lato" data-text="Buy us a coffee" data-outline-color="#ffffff" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
