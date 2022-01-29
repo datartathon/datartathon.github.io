@@ -9,7 +9,7 @@ imageshadow: true
 
 Originally, the DAT/Artathon was an in-person event at [Understanding Risk 2020](https://understandrisk.org/event/ur2020). Community is one thing we desparately need during this time of social isolation and global separation, so we decided to move it to a virtual platform.
 
-The event evolved into a free virtual workshop for 5-10 early career individuals who work on data visualization using disaster risk and resilience data. The artathon’s goal was to form a cohesive cohort of people who can share specific skills and support one another on individual visualization projects. Read more about the inaugural event [here](http://datartathon.com/blogs/concluding-the-first-datartathon). 
+The event evolved into a free virtual workshop for 10-15 early career individuals who work on data visualization using disaster risk and resilience data. The DAT/Artathon’s goal was to form a cohesive cohort of people who can share visualization skills and support one another on individual projects. Read more about the inaugural event [here](http://datartathon.com/blogs/concluding-the-first-datartathon). 
 
 Moving forward, our mission is to create more ways to connect early career individuals at the intersection of risk and resilience, data, and art. 
 
