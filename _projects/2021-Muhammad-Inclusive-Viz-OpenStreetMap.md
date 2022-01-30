@@ -7,7 +7,7 @@ cover: false
 categories: [ projects ]
 tags: [ DATArtathon2021 ]
 image: assets/images/muhammad_3.gif
-excerpt: Wide range of actors contribute to OpenStreetMap (OSM) with varying backgrounds and skills. Inclusive Visualisation of data quality in OpenStreetMap (OSM) can elevate the motivation and understanding of the data creators.
+excerpt: A wide range of actors contribute to OpenStreetMap (OSM) with varying backgrounds and skills. Inclusive visualisation of data quality in OpenStreetMap (OSM) can elevate the motivation and understanding of the data creators.
 ---
 
 DAT/Artist: [Muhammad Saleem](http://datartathon.com/fellows/muhammad), 2021. 
@@ -20,7 +20,7 @@ DAT/Artist: [Muhammad Saleem](http://datartathon.com/fellows/muhammad), 2021.
 </div>
 
 
-*Wide range of actors contribute to OpenStreetMap (OSM) with varying backgrounds and skills. Inclusive Visualisation of data quality in OpenStreetMap (OSM) can elevate the motivation and understanding of the data creators. We visualise the quality or state of the data, so that it could be improved. So, to convert this visualisation into an actionable intervention we land in another cartographic challenge. With this proof of concept I tried to use what I call “inclusive visualisation” and apply it to two case-studies in the Caribbean Islands. Inclusive (geo)visualisation shows that “there is always another way” to make the best out of the different dimensions of the regional contexts beyond the impending disaster.*
+*A wide range of actors contribute to OpenStreetMap (OSM) with varying backgrounds and skills. Inclusive visualisation of data quality in OpenStreetMap (OSM) can elevate the motivation and understanding of the data creators. We visualise the quality or state of the data, so that it could be improved. So, to convert this visualisation into an actionable intervention we land in another cartographic challenge. With this proof of concept I tried to use what I call “inclusive visualisation” and apply it to two case-studies in the Caribbean Islands. Inclusive (geo)visualisation shows that “there is always another way” to make the best out of the different dimensions of the regional contexts beyond the impending disaster.*
 
 
 I tried 2 to 3 ways to visualise the quality of OSM for two of my case studies. For first case-study I visualise the missing building footprints in three different ways. For the second case-study I visualise buildings with less than one tag in two different ways. These visualisations help multiple stakeholders to understand the visualisation in an action based way.
@@ -41,8 +41,10 @@ I tried the concept of inclusive visualisation by looking at the completeness as
   <div class="col-md-6 pb-3">
 <img src="/assets/images/muhammad_2.png" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
-  
-  <div class="col-md-12">
+  <!-- Force next columns to break to new line -->
+  <div class="w-100"></div>
+
+  <div class="col-md">
 <img src="/assets/images/muhammad_3.gif" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
 </div>
@@ -58,16 +60,16 @@ I discovered that La Parguera is a very nice tourist hotspot, which means a sour
   1. I extracted all the mapped buildings and buildings with more than one tag.
   2. I counted the total buildings and buildings with more than one tag, accumulate it into hexagonal polygons, and divide them to formulate the quality index.
 
-<div class="row m-0">
-<div class="col-md-8 offset-md-2">
+<div class="mx-auto">
+<div class="col-md-9 offset-md-2">
 <img src="/assets/images/muhammad_4.png" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
   
-  <div class="col-md-8 offset-md-2 py-3">
+  <div class="col-md-9 offset-md-2 py-3">
 <img src="/assets/images/muhammad_5.png" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
   
-  <div class="col-md-8 offset-md-2">
+  <div class="col-md-12 offset-md-1">
 <img src="/assets/images/muhammad_6.gif" style="border:0px;margin:0px" alt="vertical 1"/>
 </div>
 </div>
