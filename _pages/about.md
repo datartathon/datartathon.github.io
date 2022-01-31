@@ -20,7 +20,7 @@ Co-organizers [Sabine](http://datartathon.com/fellows/sabine) and [Yolanda](http
 Co-organizer and technical advisor [Arogya](http://datartathon.com/fellows/arogya) is an information systems designer from Nepal. He has experience in building data-driven systems, and facilitating workshops for data users (volunteer mappers, government officials, activists, journalists) in different parts of the country. 
 
 
-<img class="custom-shadow" src = "assets/images/datartathon/sabyolaro.jpg"/>
+<img class="custom-shadow" src = "assets/images/datartathon/organizers_edited.jpeg"/>
 
 If you'd like to support the DAT/Artathon co-founders, please feel free to buy us a coffee using the button below. All proceeds will go towards maintaining this site and running our DAT/Artathon workshop.
 

@@ -1,0 +1,22 @@
+---
+layout: default
+title: Blogs & Resources
+---
+
+<div class="row">
+<div class="col-md-8">
+    <p style="font-size: 1.6rem; ">Welcome to the DAT/Artathon blog! Find upcoming events, updates, resources, guest posts, and more. </p></p>    
+</div>
+    <div class="col-md-4 p-0">
+            </div>
+
+</div>
+
+<div class="blog-grid-container">
+
+    {% for post in site.blogs reversed  %}
+    {% include postbox.html %}
+    {% endfor %}
+    
+</div>
+
