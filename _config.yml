@@ -10,8 +10,9 @@ disqus: 'datartathon'
 mailchimp-list: 'https://datartathon.us1.list-manage.com/subscribe/post?u=a8947407d3f635f9417d9eb0f&amp;id=8d0ee3f9d9'
 include: ["_pages"]
 permalink: /:title/
-# email: wowthemesnet@gmail.com
+email: datartathon@gmail.com
 categories: [Events, News]
+port: 3000
 
 # Authors
 authors:
