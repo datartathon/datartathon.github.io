@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Himalayan Glacial Cover: 2004 vs 2018"
-# author: arogya
+author: hannah
 date: 2020-11-30
 categories: [ projects ]
 cover: false
@@ -10,7 +10,7 @@ excerpt: This interactive slider visualisation compares summer Himalayan glacial
 image: assets/images/2004-vs-2018 - Hannah Melville-Rea.gif
 ---
      
-DAT/Artist: [Hannah Melville-Rea](http://datartathon.com/fellows/hannah), 2020. 
+<!-- DAT/Artist: [Hannah Melville-Rea](http://datartathon.com/fellows/hannah), 2020.  -->
 
 <iframe frameborder="0" class="juxtapose" style="width:100%;height:500px;" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5e943cea-2fb0-11eb-83c8-ebb5d6f907df"></iframe>
 

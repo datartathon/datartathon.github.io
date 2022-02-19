@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Risk Zoo"
-# author: arogya
+author: yolanda
 date: 2020-11-29
 cover: false
 categories: [ projects ]
@@ -10,7 +10,7 @@ image: assets/images/TheRiskZoo-wide.png
 excerpt: Animal kingdom metaphors are often invoked in the disaster risk world for their accessibility and familiarity when discussing difficult or uncomfortable topics.
 ---
      
-DAT/Artist: [Yolanda Lin](http://datartathon.com/fellows/yolanda), 2020. 
+<!-- DAT/Artist: [Yolanda Lin](http://datartathon.com/fellows/yolanda), 2020.  -->
 
  ![](/assets/images/TheRiskZoo-tall.png)
 

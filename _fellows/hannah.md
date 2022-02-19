@@ -6,7 +6,7 @@ location: "Abu Dhabi, UAE"
 year: "2020"
 socials:
     linkedin: https://www.linkedin.com/in/hannahmelvillerea/
-    twitter: 
+    twitter: https://twitter.com/hannahmelrea
 author: arogya
 date: 2020-11-22
 categories: [ Fellows ]

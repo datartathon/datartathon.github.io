@@ -14,33 +14,64 @@ email: datartathon@gmail.com
 categories: [Events, News]
 port: 3000
 
-# Authors
+# Authors -- these are all the people who have contributed to the website
 authors:
   sabine:
     name: Sabine
     display_name: Sabine
-    gravatar: ff431142425c5ecdaaec6fae52db80e1
-    email: sloos@stanford.edu
+    avatar: assets/images/datartathon/sabine_edited.jpg
+    email: sloos@usgs.gov
     web: http://datartathon.com/fellows/sabine
     twitter: https://twitter.com/sab_loos
     description: ""
   arogya:
     name: Arogya
     display_name: Arogya
-    gravatar: bffa206f56df3b9138419b6228ad37bc
+    avatar: assets/images/datartathon/arogya_edited.jpg
     email: arogya.koirala@kathmandulivinglabs.org
     web: http://datartathon.com/fellows/arogya
     twitter: https://twitter.com/koiralaaaa
     description: ""
+  muhammad:
+    name: Muhammad
+    display_name: Muhammad
+    avatar: assets/images/datartathon/muhammad.jpg
+    web: http://datartathon.com/fellows/muhammad
+    twitter: https://twitter.com/Muhamma28397035
+    description: ""
   yolanda:
     name: Yolanda
     display_name: Yolanda
-    gravatar: 3f7082f57b6d1055bd190defb4d58b37
+    avatar: assets/images/datartathon/yolanda_edited.jpeg
     email: ycl@unm.edu
     web: http://datartathon.com/fellows/yolanda
     twitter: https://twitter.com/DisasterYolanda
     description: ""
-
+  haley:
+    name: Haley
+    display_name: Haley
+    avatar: assets/images/datartathon/haley.png
+    web: http://datartathon.com/fellows/haley
+    description: ""
+  hannah:
+    name: Hannah
+    display_name: Hannah
+    avatar: assets/images/datartathon/hannah.jpg
+    twitter: https://twitter.com/hannahmelrea
+    web: http://datartathon.com/fellows/hannah
+    description: ""
+  jackie:
+    name: Jackie
+    display_name: Jackie
+    avatar: assets/images/datartathon/jackie.jpg
+    web: http://datartathon.com/fellows/jackie
+    description: ""
+  daniel:
+    name: Daniel
+    display_name: Daniel
+    avatar: assets/images/datartathon/daniel.png
+    web: http://datartathon.com/fellows/daniel
+    description: ""
 
 # Plugins
 plugins:

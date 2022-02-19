@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EcoRisk Forecasts - California"
-# author: daniel
+author: daniel
 date: 2021-8-13
 cover: false
 categories: [ projects ]
@@ -10,7 +10,7 @@ image: assets/images/ecorisk-horizontal.gif
 excerpt: A data-driven story about California's uncertain climate future, indicating worrisome levels of temperature warming and precipitation decline.
 ---
 
-DAT/Artist: [Daniel Furman](http://datartathon.com/fellows/daniel), 2021. 
+<!-- DAT/Artist: [Daniel Furman](http://datartathon.com/fellows/daniel), 2021.  -->
 
 A data-driven story on climate change impacts for three of the West Coast’s most beloved tree species during the 21st century. The motion-graphics storyboard visualizes shifts within these species distributions across many spatial and climate dimensions, exploring relationships between ecological risk and habitat suitability. To facilitate future experiments, the study is accompanied by an open-sourced Python package containing the class for semi-automated machine learning used in the visualization.
 

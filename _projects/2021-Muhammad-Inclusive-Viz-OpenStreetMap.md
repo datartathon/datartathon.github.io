@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No, dinner is for everyone on the table!"
-# author: daniel
+author: muhammad
 date: 2021-9-23
 cover: false
 categories: [ projects ]
@@ -10,7 +10,7 @@ image: assets/images/muhammad_3.gif
 excerpt: A wide range of actors contribute to OpenStreetMap (OSM) with varying backgrounds and skills. Inclusive visualisation of data quality in OpenStreetMap (OSM) can elevate the motivation and understanding of the data creators.
 ---
 
-DAT/Artist: [Muhammad Saleem](http://datartathon.com/fellows/muhammad), 2021. 
+<!-- DAT/Artist: [Muhammad Saleem](http://datartathon.com/fellows/muhammad), 2021.  -->
 
 
 <div className="row m-0">

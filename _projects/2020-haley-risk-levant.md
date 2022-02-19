@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Displacement in the Levant"
-# author: arogya
+author: haley
 date: 2020-12-01
 categories: [ projects ]
 cover: false
@@ -10,7 +10,7 @@ excerpt: In 1927, a large magnitude Mw 6.3 earthquake originating on the Dead Se
 image: assets/images/haley.png
 ---
 
-DAT/Artist: [Haley Sims](http://datartathon.com/fellows/haley), 2020. 
+<!-- DAT/Artist: [Haley Sims](http://datartathon.com/fellows/haley), 2020.  -->
 
 ![](/assets/images/haley.png)
 
