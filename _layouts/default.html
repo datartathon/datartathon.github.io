@@ -40,34 +40,7 @@ ga('send', 'pageview');
 
 <!-- Begin Sidebar Navigation
 ================================================== -->
-<!-- <div class="banner custom-shadow round">
-    Applications for the 2021 cohort of the DAT/Artathon are now open.
-    <br/>
-    <a href="/2021"><input type="button" value="Learn more ➨" name="Learn more"  class=" custom-button "></input></a>
-</div> -->
-<div class="sidebar">    
-</div>   
-<div class="nav-icon custom-border">
-    <div class="hamburger-bar"></div>
-</div>
-<div id="blackover-nav " class="blackover"></div>
-<nav id="menu" class="blue-bg custom-animation">
-    <ul>
-        <h4>Navigation</h4>
-        <br/>
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/2022">Apply now</a></li>
-        <li><a href="{{ site.baseurl }}/gallery">Gallery</a></li>
-        <li><a href="{{ site.baseurl }}/fellows">Fellows</a></li>
-        <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
-        <li><a href="{{ site.baseurl }}/about">About</a></li>
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>       
-
-        <!-- <li><a href="{{ site.baseurl }}/about">About <span class="badge badge-primary">Memoirs Jekyll Theme</span></a></li> -->
-        <!-- <li><a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/">Get Memoirs</a></li>       -->
-    </ul>   
-</nav>
-
+{% include navigation-pages.html %}
 {% include search-lunr.html %}
 
 
