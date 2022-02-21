@@ -5,7 +5,7 @@ description: "A collaborative and constructive experience to create disaster dat
 logo: 'assets/images/datartathon/logo.png'
 favicon: 'assets/images/datartathon/logo.png'
 # baseurl: /s
-google_analytics: 'G-R16EKV4CWS'
+google_analytics: G-FCLD835072
 disqus: 'datartathon'
 mailchimp-list: 'https://datartathon.us1.list-manage.com/subscribe/post?u=a8947407d3f635f9417d9eb0f&amp;id=8d0ee3f9d9'
 include: ["_pages"]
