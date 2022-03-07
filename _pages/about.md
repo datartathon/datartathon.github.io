@@ -1,24 +1,26 @@
 ---
 layout: page
-title: How the DAT/Artathon came to be
+title: About the Risk & Resilience DAT/Artathon
 permalink: /about
 comments: false
 # image: assets/images/datartathon/datartathon_logo.png
 imageshadow: true
 ---
 
-Originally, the DAT/Artathon was an in-person event at [Understanding Risk 2020](https://understandrisk.org/event/ur2020). Community is one thing we desparately need during this time of social isolation and global separation, so we decided to move it to a virtual platform.
+The DAT/Artathon is a free virtual workshop that brings together 10-15 early career researchers and professionals from around the world who are working to visualize and tell stories from risk and resilience data. The goal of the DAT/Artathon (pronounced dæt•artathon, rhymes with "that artathon") to form a cohesive cohort of people who can share visualization skills and support one another on individual projects. Want to learn more? You can read more about one of our first cohort member's experience in [this sketchnote](https://datartathon.com/projects/2020-charlotte-sketchnote).
 
-The event evolved into a free virtual workshop for 10-15 early career individuals who work on data visualization using disaster risk and resilience data. The DAT/Artathon’s goal was to form a cohesive cohort of people who can share visualization skills and support one another on individual projects. Read more about the inaugural event [here](http://datartathon.com/blogs/concluding-the-first-datartathon). 
+Moving forward, our mission is to create more ways to connect early career individuals at the intersection of risk and resilience, data, and art. The workshop is the entry point into a sustained community of natural hazards professionals in risk and resilience. Cohort members can choose to stay involved with monthly meetups, our Slack community, and more.
 
-Moving forward, our mission is to create more ways to connect early career individuals at the intersection of risk and resilience, data, and art. 
+## How the DAT/Artathon came to be
+Originally, the DAT/Artathon was an in-person event at [Understanding Risk 2020](https://understandrisk.org/event/ur2020). Community is one thing we desparately needed during this time of social isolation and global separation, so we decided to move it to a virtual platform. You can watch our recap of the DAT/Artathon at UR2020 [here](https://understandrisk.org/dat-artathon-turning-risk-data-into-visual-art-2/).
 
 ## About us
+[Sabine](http://datartathon.com/fellows/sabine), [Arogya](http://datartathon.com/fellows/arogya), and [Yolanda](http://datartathon.com/fellows/yolanda), are the co-founders of the DAT/Artathon.
+Sabine serves as the Projects Lead and facilitates the development and communication of DAT/Artists' projects.
+Arogya serves as the Technical Lead and connects DAT/Artists to new tools, skills, and expertise.
+Yolanda serves as the Workshop Lead and manages and facilitates the annual DAT/Artathon workshop, along with an organizing committee of past cohort members (more coming soon).
 
-Co-organizers [Sabine](http://datartathon.com/fellows/sabine) and [Yolanda](http://datartathon.com/fellows/yolanda) are disaster analysts,  researchers, & visualization enthusiasts. They have collective experience in facilitating collaborative workshops (see [here](https://disaster-analytics.com/blog/counterfactual-black-swans-workshop) and [here](https://disaster-analytics.com/blog/converging-disaster-researchers-nhw)) and engaging audiences with data ([here](https://www.sabine-loos.com/blog-1/afterquake-visrisk)). 
-
-Co-organizer and technical advisor [Arogya](http://datartathon.com/fellows/arogya) is an information systems designer from Nepal. He has experience in building data-driven systems, and facilitating workshops for data users (volunteer mappers, government officials, activists, journalists) in different parts of the country. 
-
+If you'd like to learn more, please feel free to reach out at [hello@datartathon.com](mailto:hello@datartathon.com).
 
 <img class="custom-shadow" src = "assets/images/datartathon/organizers_edited.jpeg"/>
 

@@ -72,6 +72,11 @@ authors:
     avatar: assets/images/datartathon/daniel.png
     web: http://datartathon.com/fellows/daniel
     description: ""
+  charlotte:
+    name: Charlotte
+    display_name: Charlotte
+    avatar: assets/images/datartathon/charlotte.jpg
+    web: http://datartathon.com/fellows/charlotte
 
 # Plugins
 plugins:
