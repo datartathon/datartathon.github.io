@@ -77,6 +77,13 @@ authors:
     display_name: Charlotte
     avatar: assets/images/datartathon/charlotte.jpg
     web: http://datartathon.com/fellows/charlotte
+  jorge:
+    name: Jorge
+    display_name: Jorge
+    avatar: assets/images/datartathon/jorge.jpg
+    twitter: https://twitter.com/JorgeMarioLR
+    web: http://datartathon.com/fellows/jorge
+    description: ""
 
 # Plugins
 plugins:
