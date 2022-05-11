@@ -4,32 +4,28 @@ title: DAT/Artathon Fellows
 image: assets/images/datartathon/fellows_og.png
 ---
 
-<div class="row">
-    <div class="col-md-8">
-        <!-- <p style="font-size: 1.6rem; ">Learn more about the DAT/Artathon Fellows. </p> -->
-    </div>
-    <div class="col-md-4 p-0">
-    </div>
-
-</div>
-
-
-<h1>2021 Fellows</h1>
+<h1>Learn more about the DAT/Artathon Fellows </h1>
 
 {% assign fellows2021 = site.fellows | where:'year', "2021" | sort: 'title' %}
+<br>
+<h2>2021 Fellows</h2>
 
-{% for fellow in fellows2021 %}
-{% include fellow-snippet.html %}
-{% endfor %}
+<div class="row no-gutters">
+    {% for fellow in fellows2021 %}
+    {% include fellow-snippet.html %}
+    {% endfor %}
+</div>
 
-<h1>2020 Fellows</h1>
+<br>
+<h2>2020 Fellows</h2>
 
 {% assign fellows2020 = site.fellows | where:'year', "2020" | sort: 'title' %}
 
-{% for fellow in fellows2020 %}
-{% include fellow-snippet.html %}
-{% endfor %}
-
+<div class="row no-gutters">
+    {% for fellow in fellows2020 %}
+    {% include fellow-snippet.html %}
+    {% endfor %}
+</div>
 
 <br />
 <br />

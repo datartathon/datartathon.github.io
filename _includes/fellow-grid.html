@@ -1,0 +1,21 @@
+<!-- <div class="col-md-4 col-lg-2 px-0 fellow-image">
+        <a href="{{ site.baseurl }}{{ fellow.url }}"><img class="img-fluid" src="{% if post.image contains " ://" %}{{ fellow.image }}{% else %}{{ site.baseurl
+            }}/{{ fellow.image }}{% endif %}" alt="{{ fellow.title }}">
+        </a>
+        <p style="font-size:1rem; margin:0; text-align: center" class="custom-color"><a href="{{ site.baseurl }}{{ fellow.url }}">{{ fellow.name }}</a></p>
+</div> -->
+<!-- if last column in row -->
+<!-- {% if forloop.counter | divisibleby:"4" and not forloop.last %}
+</div><div class="row">
+{% endif %} -->
+
+<div class="col-sm-4 col-md-3 col-lg-2 px-0">
+<div class="img-wrapper">
+    <a href="{{ site.baseurl }}{{ fellow.url }}">
+        <img class="blur" src="{% if post.image contains " ://" %}{{ fellow.image }}{% else %}{{ site.baseurl
+        }}/{{ fellow.image }}{% endif %}" alt="{{ fellow.title }}">
+    </a>
+    <div class="content"><a href="{{ site.baseurl }}{{ fellow.url }}">{{ fellow.name }}</a>
+    </div>
+</div>
+</div>
