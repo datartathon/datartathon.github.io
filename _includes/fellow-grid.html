@@ -12,7 +12,7 @@
 <div class="col-sm-4 col-md-3 col-lg-2 px-0">
 <div class="img-wrapper">
     <a href="{{ site.baseurl }}{{ fellow.url }}">
-        <img class="blur" src="{% if post.image contains " ://" %}{{ fellow.image }}{% else %}{{ site.baseurl
+        <img class="blur" style="object-fit: cover;" src="{% if post.image contains " ://" %}{{ fellow.image }}{% else %}{{ site.baseurl
         }}/{{ fellow.image }}{% endif %}" alt="{{ fellow.title }}">
     </a>
     <div class="content"><a href="{{ site.baseurl }}{{ fellow.url }}">{{ fellow.name }}</a>
