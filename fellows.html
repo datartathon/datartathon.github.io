@@ -6,6 +6,16 @@ image: assets/images/datartathon/fellows_og.png
 
 <h1>Learn more about the DAT/Artathon Fellows </h1>
 
+{% assign fellows2021 = site.fellows | where:'year', "2022" | sort: 'title' %}
+<br>
+<h2>2022 Fellows</h2>
+
+<div class="row no-gutters">
+    {% for fellow in fellows2022 %}
+    {% include fellow-grid.html %}
+    {% endfor %}
+</div>
+
 {% assign fellows2021 = site.fellows | where:'year', "2021" | sort: 'title' %}
 <br>
 <h2>2021 Fellows</h2>
