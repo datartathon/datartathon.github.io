@@ -11,7 +11,7 @@ author: arogya
 date: 2021-07-19
 categories: [ Fellows ]
 tags: [ People ]
-image: assets/images/datartathon/kaliegh.jpg
+image: assets/images/silhouette.png
 ---
 
 
