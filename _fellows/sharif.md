@@ -1,6 +1,6 @@
 ---
 layout: fellow
-name:  "Anna Steinbock"
+name:  "Sharif Islam"
 current_affiliation: ""
 location: "Virginia, United States"
 year: "2022"
