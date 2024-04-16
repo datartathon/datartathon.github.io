@@ -14,4 +14,4 @@ tags: [ People ]j
 image: assets/images/datartathon/DebbyParamitasari.jpg
 ---
 
-Ana is a chemical engineer who just graduated her Master's degree in Sustainability. Her thesis focused on Disaster Risk Reduction mapping vulnerability to Typhoons in the Philippines. She also participated in VizRisk Challenge last year and [mapped vulnerabiity risk in Monrovia Liberia](https://medium.com/@anagonz/identifying-settlements-of-high-risk-of-floods-in-greater-monrovia-liberia-b71ac13249cd).
+Debby Paramitasari is a researcher and a master student in Erasmus Mundus European Public Health program. Debby comes from Jakarta, Indonesia. She completed her bachelor in public health at University of Indonesia, Indonesia and master in disaster management at University of Auckland, New Zealand. Her current work is related to data of Glacial Lake Outburst Floods (GLOFs) burden from around the world. She is passionate about digital public health and social media in disaster management, cooking, and travelling. 

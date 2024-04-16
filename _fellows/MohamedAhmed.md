@@ -1,17 +1,17 @@
 ---
 layout: fellow
-name:  "Ana Gonzalez"
+name:  "Mohamed Hazan Ahmed"
 current_affiliation: ""
-location: "Mexico"
-year: "2020"
+location: "United States"
+year: "2023"
 socials:
     linkedin: 
     twitter: 
-author: arogya
-date: 2020-11-22
+author: sabine
+date: 2024-04-16
 categories: [ Fellows ]
-tags: [ People ]
-image: assets/images/datartathon/ana.jpg
+tags: [ People ]j
+image: assets/images/datartathon/MohamedAhmed.jpg
 ---
 
-Ana is a chemical engineer who just graduated her Master's degree in Sustainability. Her thesis focused on Disaster Risk Reduction mapping vulnerability to Typhoons in the Philippines. She also participated in VizRisk Challenge last year and [mapped vulnerabiity risk in Monrovia Liberia](https://medium.com/@anagonz/identifying-settlements-of-high-risk-of-floods-in-greater-monrovia-liberia-b71ac13249cd).
+Mohamed Ahmed is currently a Ph.D. student in the civil & environmental engineering department at Utah State University, where he is working on automation and machine learning in earthquake engineering. Mohamed is from Egypt, where he got his bachelor’s and master’s degrees in civil engineering from the faculty of engineering at Cairo University, in 2017 and 2022, respectively. For over three years after his graduation, he worked as a structural design engineer for various infrastructures constructed in the middle east.
