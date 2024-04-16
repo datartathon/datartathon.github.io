@@ -1,7 +1,7 @@
 ---
 layout: fellow
 name:  "Mohamed Hazan Ahmed"
-current_affiliation: ""
+current_affiliation: "Utah State University"
 location: "United States"
 year: "2023"
 socials:

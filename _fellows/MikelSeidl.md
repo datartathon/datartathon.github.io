@@ -1,7 +1,7 @@
 ---
 layout: fellow
 name:  "Mikel Seidl"
-current_affiliation: ""
+current_affiliation: "Bureau of Humanitarian Assistance"
 location: "United States"
 year: "2023"
 socials:
