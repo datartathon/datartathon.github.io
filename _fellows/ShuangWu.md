@@ -1,7 +1,7 @@
 ---
 layout: fellow
 name:  "Shuang Wu"
-current_affiliation: "Bureau of Humanitarian Assistance"
+current_affiliation: "WSP"
 location: "United States"
 year: "2023"
 socials:
