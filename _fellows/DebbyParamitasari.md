@@ -1,7 +1,7 @@
 ---
 layout: fellow
 name:  "Debby Paramitasari"
-current_affiliation: ""
+current_affiliation: "École des hautes études en santé publique (EHESP)"
 location: "France"
 year: "2023"
 socials:
@@ -10,7 +10,7 @@ socials:
 author: sabine
 date: 2024-04-16
 categories: [ Fellows ]
-tags: [ People ]j
+tags: [ People ]
 image: assets/images/datartathon/DebbyParamitasari.jpg
 ---
 

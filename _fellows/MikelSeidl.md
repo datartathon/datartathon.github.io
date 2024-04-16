@@ -10,7 +10,7 @@ socials:
 author: sabine
 date: 2024-04-16
 categories: [ Fellows ]
-tags: [ People ]j
+tags: [ People ]
 image: assets/images/datartathon/MikelSeidl.jpg
 ---
 
