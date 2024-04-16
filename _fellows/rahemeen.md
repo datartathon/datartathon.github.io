@@ -11,7 +11,7 @@ author: arogya
 date: 2021-07-19
 categories: [ Fellows ]
 tags: [ People ]
-image: assets/images/silhouette.png
+image: assets/images/Rahemeen.jpeg
 ---
 
 Rahemeen is a structural engineer-in-training and aims to work towards creating sustainable and resilient cities and communities.
